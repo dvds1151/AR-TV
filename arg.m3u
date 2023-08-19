@@ -5,5 +5,10 @@ https://cutralco.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" tvg-language="Spanish" group-title="Nacionales", La Nación +
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
+
+#EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" tvg-language="Spanish" group-title="Entretenimiento", Space
+https://cutralco.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-id="Warner.Channel.(Argentina).(WARNER).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" tvg-language="Spanish" group-title="Entretenimiento", Warner Channel
 https://cutralco.cdn.rcs.net.ar/mnp/warner/output.mpd
+
+
