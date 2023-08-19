@@ -1,0 +1,9 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dvds115/DowloadIP/main/epg/artv-guide-inf.xml" tv-test="arg.m3u"
+
+#EXTINF:-1 tvg-id="128dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" tvg-language="Spanish" group-title="Nacionales", Encuentro
+https://cutralco.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+#EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" tvg-language="Spanish" group-title="Nacionales", La Nación +
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
+
+#EXTINF:-1 tvg-id="Warner.Channel.(Argentina).(WARNER).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" tvg-language="Spanish" group-title="Entretenimiento", Warner Channel
+https://cutralco.cdn.rcs.net.ar/mnp/warner/output.mpd
