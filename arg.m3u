@@ -10,5 +10,15 @@ https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 https://cutralco.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-id="Warner.Channel.(Argentina).(WARNER).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" tvg-language="Spanish" group-title="Entretenimiento", Warner Channel
 https://cutralco.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1 tvg-id="HBO.Latin.America.HDTV.(East).(HBOHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" tvg-language="Spanish" group-title="Entretenimiento", HBO
+http://45.160.15.1:8111/play/a0ot
+#EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" tvg-language="Spanish" group-title="Entretenimiento", HBO 2
+http://45.160.15.1:8111/play/a0ox
+#EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Plus
+http://45.238.20.129:8000/play/a00i
+#EXTINF:-1 tvg-id="HBO.Family.(East).(HBOFe).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Family
+http://45.160.15.1:8111/play/a0ou
+#EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Xtreme
+http://45.160.15.1:8111/play/a0ow
 
 
