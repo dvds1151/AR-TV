@@ -85,6 +85,8 @@ https://cutralco.cdn.rcs.net.ar/mnp/universal/output.mpd
 https://cutralco.cdn.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1 tvg-id="502dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" tvg-language="Spanish" group-title="Entretenimiento", TNT
 https://cutralco.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" tvg-language="Spanish" group-title="Entretenimiento", TCM
+https://cutralco.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-id="HBO.Latin.America.HDTV.(East).(HBOHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" tvg-language="Spanish" group-title="Entretenimiento", HBO
 http://45.160.15.1:8111/play/a0ot
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" tvg-language="Spanish" group-title="Entretenimiento", HBO 2
@@ -95,8 +97,11 @@ https://cutralco.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 http://45.160.15.1:8111/play/a0ou
 #EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Xtreme
 http://45.160.15.1:8111/play/a0ow
-
-#EXTINF:-1 tvg-id="TNT.Novelas.(Sur).(TBS).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/116-TBS.png", TNT Novelas
+#EXTINF:-1 tvg-id="TNT.Series.SUR.SD.(TNTSERIE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" tvg-language="Spanish" group-title="Entretenimiento", TNT Series
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
+#EXTINF:-1 tvg-id="TNT.Novelas.(Sur).(TBS).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" tvg-language="Spanish" group-title="Telenovelas", TNT Novelas
 https://cutralco.cdn.rcs.net.ar/mnp/tbs/output.mpd
+#EXTINF:-1 tvg-id="225dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/96-Pasiones.png" tvg-language="Spanish" group-title="Telenovelas", Pasiones
+http://177.234.230.226:8010/play/a00s/index.m3u8
 
 
