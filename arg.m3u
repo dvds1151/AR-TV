@@ -1,7 +1,17 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/dvds115/DowloadIP/main/epg/artv-guide-inf.xml" tv-test="arg.m3u"
+#EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
 
-#EXTINF:-1 tvg-id="128dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" tvg-language="Spanish" group-title="Nacionales", Encuentro
-https://cutralco.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+#EXTINF:-1 tvg-id="125dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" tvg-language="Spanish" group-title="Nacionales", Net TV
+https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="726dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" tvg-language="Spanish" group-title="Nacionales", Telemax
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="C5N.(C5N).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" tvg-language="Spanish" group-title="Nacionales", C5N
+https://cutralco.cdn.rcs.net.ar/mnp/c5n/output.mpd
+#EXTINF:-1 tvg-id="TV.Pública.(PUBLICA).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" tvg-language="Spanish" group-title="Nacionales", TV Pública
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Tv_Publica/SA_HLS/Tv_Publica.m3u8
+#EXTINF:-1 tvg-id="718dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" tvg-language="Spanish" group-title="Nacionales", Crónica HD
+https://cutralco.cdn.rcs.net.ar/mnp/cronica/output.mpd
+#EXTINF:-1 tvg-id="Canal.26.Noticias.(26TV).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" tvg-language="Spanish" group-title="Nacionales", Canal 26
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Canal_26/SA_HLS/Canal_26.m3u8
 #EXTINF:-1 tvg-id="América.24.(AME24).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" tvg-language="Spanish" group-title="Nacionales", A24
 https://cutralco.cdn.rcs.net.ar/mnp/a24/output.mpd
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" tvg-language="Spanish" group-title="Nacionales", La Nación +
@@ -15,9 +25,10 @@ https://cutralco.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" tvg-language="Spanish" group-title="Nacionales", América
 https://cutralco.cdn.rcs.net.ar/mnp/america/output.mpd
 
+#EXTINF:-1 tvg-id="128dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" tvg-language="Spanish" group-title="Culturales", Encuentro
+https://cutralco.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 
-
-#EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png", Star Channel
+#EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" tvg-language="Spanish" group-title="Entretenimiento", Star Channel
 https://cutralco.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-id="Cinemax.(South).(CINEMAX).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" tvg-language="Spanish" group-title="Entretenimiento", Cinemax
 https://cutralco.cdn.rcs.net.ar/mnp/cinemax/output.mpd
