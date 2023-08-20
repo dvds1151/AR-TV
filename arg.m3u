@@ -56,15 +56,12 @@ http://181.78.75.11:9500/play/a010/index.m3u8
 https://cutralco.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-id="Animal.Planet.International.(Argentina).(ANIMAL).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" tvg-language="Spanish" group-title="Culturales", Animal Planet
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+#EXTINF:-1 tvg-id="Investigation.Discovery.(Argentina).(ID).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-ID.png" tvg-language="Spanish" group-title="Culturales", Investigation Discovery (ID)
+https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+#EXTINF:-1 tvg-id="A.and.E.(Argentina).(A.and.E).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png" tvg-language="Spanish" group-title="Culturales", A&E
+https://cutralco.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 tvg-id="Lifetime.(Latin.America).(LIFETIME).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" tvg-language="Spanish" group-title="Culturales", Lifetime
 https://cutralco.cdn.rcs.net.ar/mnp/lifetime/output.mpd
-#EXTINF:-1 tvg-id="Investigation.Discovery.(Argentina).(ID).ar" tvg-name="Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/55-ID.png", Investigation Discovery (ID)
-https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
-#EXTINF:-1 tvg-id="A&E.(Argentina).(A&E).ar" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/70-A%26E.png", A&E
-https://cutralco.cdn.rcs.net.ar/mnp/ae/output.mpd
-#EXTINF:-1 tvg-id="TBS.Sur.(TBS).ar" tvg-name="TBS" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/116-TBS.png", TBS
-https://cutralco.cdn.rcs.net.ar/mnp/tbs/output.mpd
-#EXTINF:-1 tvg-id="truTV.(Latin.America).(TRUTV).ar" tvg
 
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" tvg-language="Spanish" group-title="Entretenimiento", Star Channel
 https://cutralco.cdn.rcs.net.ar/mnp/foxhd/output.mpd
@@ -80,6 +77,8 @@ https://cutralco.cdn.rcs.net.ar/mnp/axn/output.mpd
 https://cutralco.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Entretenimiento", Paramount Channel
 https://cutralco.cdn.rcs.net.ar/mnp/paramount/output.mpd
+#EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Argentina).(SONY).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" tvg-language="Spanish" group-title="Entretenimiento", Sony Channel
+https://cutralco.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1 tvg-id="Universal.Channel.(Argentina).(UNIVE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" tvg-language="Spanish" group-title="Entretenimiento", Universal TV
 https://cutralco.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 tvg-id="AMC.(South).(AMC).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" tvg-language="Spanish" group-title="Entretenimiento", AMC
@@ -96,5 +95,8 @@ https://cutralco.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 http://45.160.15.1:8111/play/a0ou
 #EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Xtreme
 http://45.160.15.1:8111/play/a0ow
+
+#EXTINF:-1 tvg-id="TNT.Novelas.(Sur).(TBS).ar" tvg-logo="https://raw.githubusercontent.com/dvds115/DowloadIP/main/icons/116-TBS.png", TNT Novelas
+https://cutralco.cdn.rcs.net.ar/mnp/tbs/output.mpd
 
 
