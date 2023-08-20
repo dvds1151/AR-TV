@@ -2,8 +2,19 @@
 
 #EXTINF:-1 tvg-id="128dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" tvg-language="Spanish" group-title="Nacionales", Encuentro
 https://cutralco.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+#EXTINF:-1 tvg-id="América.24.(AME24).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" tvg-language="Spanish" group-title="Nacionales", A24
+https://cutralco.cdn.rcs.net.ar/mnp/a24/output.mpd
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" tvg-language="Spanish" group-title="Nacionales", La Nación +
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
+#EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" tvg-language="Spanish" group-title="Nacionales", Telefé
+https://cutralco.cdn.rcs.net.ar/mnp/telefe/output.mpd
+#EXTINF:-1 tvg-id="124dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" tvg-language="Spanish" group-title="Nacionales", El Trece
+https://cutralco.cdn.rcs.net.ar/mnp/el13/output.mpd
+#EXTINF:-1 tvg-id="122dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" tvg-language="Spanish" group-title="Nacionales", El Nueve
+https://cutralco.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+#EXTINF:-1 tvg-id="120dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" tvg-language="Spanish" group-title="Nacionales", América
+https://cutralco.cdn.rcs.net.ar/mnp/america/output.mpd
+
 
 
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png", Star Channel
