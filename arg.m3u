@@ -71,17 +71,16 @@ https://cutralco.cdn.rcs.net.ar/mnp/espn/output.mpd
 https://cutralco.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png", ESPN 3
 https://cutralco.cdn.rcs.net.ar/mnp/espn3/output.mpd
-#EXTINF:-1 tvg-id="1605dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png", FOX Sports
+#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png", FOX Sports
 https://cutralco.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-#EXTINF:-1 tvg-id="606dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png", FOX Sports 2
+#EXTINF:-1 tvg-id="Fox.Sports.2.Latin.America.(Cono.Sur).(FOXSP2).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png", FOX Sports 2
 https://cutralco.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-#EXTINF:-1 tvg-id="607dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png", FOX Sports 3
+#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Sur).(FOXSP3).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png", FOX Sports 3
 https://cutralco.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 #EXTINF:-1 tvg-id="603dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png", TNT Sports
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 #EXTINF:-1 tvg-id="1604dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png", ESPN Premium
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
-
 
 #EXTINF:-1 tvg-id="Cartoon.Network.(Latin.America.-.Argentina).(TOON).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" tvg-language="Spanish" group-title="Infantiles", Cartoon Network
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
@@ -122,7 +121,7 @@ http://45.160.15.1:8111/play/a0ot
 http://45.160.15.1:8111/play/a0ox
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Plus
 https://cutralco.cdn.rcs.net.ar/mnp/hboplus/output.mpd
-#EXTINF:-1 tvg-id="HBO.Family.(East).(HBOFe).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Family
+#EXTINF:-1 tvg-id="HBO.Family.HDTV.(Spanish).(HBOFAMHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Family
 http://45.160.15.1:8111/play/a0ou
 #EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Xtreme
 http://45.160.15.1:8111/play/a0ow
