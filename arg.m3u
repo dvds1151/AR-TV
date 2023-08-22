@@ -71,7 +71,7 @@ https://cutralco.cdn.rcs.net.ar/mnp/espn/output.mpd
 https://cutralco.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 tvg-id="ESPN.3.South.(Latin.America).(ESPN3).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png", ESPN 3
 https://cutralco.cdn.rcs.net.ar/mnp/espn3/output.mpd
-#EXTINF:-1 tvg-id="Fox.Sports.Argentina.(Cono.Sur).(FOXSP).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png", FOX Sports
+#EXTINF:-1 tvg-id="605dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png", FOX Sports
 https://cutralco.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 #EXTINF:-1 tvg-id="Fox.Sports.2.Latin.America.(Cono.Sur).(FOXSP2).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png", FOX Sports 2
 https://cutralco.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
@@ -123,6 +123,8 @@ http://45.160.15.1:8111/play/a0ox
 https://cutralco.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(Spanish).(HBOFAMHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Family
 http://45.160.15.1:8111/play/a0ou
+#EXTINF:-1 tvg-id="HBO.POP.HDTV.(Panamerican).(HBOPOP).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Pop
+https://cutralco.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Xtreme
 http://45.160.15.1:8111/play/a0ow
 #EXTINF:-1 tvg-id="TNT.Series.SUR.SD.(TNTSERIE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" tvg-language="Spanish" group-title="Entretenimiento", TNT Series
@@ -132,4 +134,8 @@ https://cutralco.cdn.rcs.net.ar/mnp/tbs/output.mpd
 #EXTINF:-1 tvg-id="225dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png" tvg-language="Spanish" group-title="Telenovelas", Pasiones
 http://177.234.230.226:8010/play/a00s/index.m3u8
 
+#EXTINF:-1 tvg-id="MTV.Latin.America.(South.Feed).(MTV).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png", MTV
+https://cutralco.cdn.rcs.net.ar/mnp/mtv/output.mpd
+#EXTINF:-1 tvg-id="272dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png", HTV
+https://cutralco.cdn.rcs.net.ar/mnp/htv/output.mpd
 
