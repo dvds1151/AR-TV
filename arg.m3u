@@ -91,11 +91,14 @@ https://cutralco.cdn.rcs.net.ar/mnp/disney/output.mpd
 #EXTINF:-1 tvg-id="Discovery.Kids.(Latin.America).(DSCKDS).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png" tvg-language="Spanish" group-title="Infantiles", Discovery Kids
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-LosSimpsonsTV.png" tvg-language="Spanish" group-title="Infantiles", Los Simpsons TV
+http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2091013
+
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" tvg-language="Spanish" group-title="Entretenimiento", Star Channel
 https://cutralco.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-id="Cinemax.(South).(CINEMAX).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" tvg-language="Spanish" group-title="Entretenimiento", Cinemax
 https://cutralco.cdn.rcs.net.ar/mnp/cinemax/output.mpd
-#EXTINF:-1 tvg-id="Space.HDTV.(Panamericano).(SPACEHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" tvg-language="Spanish" group-title="Entretenimiento", Space
+#EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" tvg-language="Spanish" group-title="Entretenimiento", Space
 https://cutralco.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-id="507dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" tvg-language="Spanish" group-title="Entretenimiento", Cinecanal
 https://cutralco.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
