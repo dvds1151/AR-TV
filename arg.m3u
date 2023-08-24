@@ -92,7 +92,7 @@ https://cutralco.cdn.rcs.net.ar/mnp/disney/output.mpd
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-LosSimpsonsTV.png" tvg-language="Spanish" group-title="Infantiles", Los Simpsons TV
-http://sdmx.vip:8080/Cambiosfenix/sjZJZYQXHY/2091013
+http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/113800
 
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" tvg-language="Spanish" group-title="Entretenimiento", Star Channel
 https://cutralco.cdn.rcs.net.ar/mnp/foxhd/output.mpd
