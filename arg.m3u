@@ -96,6 +96,8 @@ http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/113800
 
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" tvg-language="Spanish" group-title="Entretenimiento", Star Channel
 https://cutralco.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+#EXTINF:-1 tvg-id="FX.Latin.America.(Argentina).(FX).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" tvg-language="Spanish" group-title="Entretenimiento", FX
+https://cutralco.cdn.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1 tvg-id="Cinemax.(South).(CINEMAX).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" tvg-language="Spanish" group-title="Entretenimiento", Cinemax
 https://cutralco.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" tvg-language="Spanish" group-title="Entretenimiento", Space
