@@ -8,3 +8,7 @@ El uso es solamente personal. No se vende ni se distribuye.
 ```
 https://raw.githubusercontent.com/dvds1151/AR-TV/main/arg.m3u
 ```
+EPG:
+```
+https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml
+```
