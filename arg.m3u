@@ -92,7 +92,7 @@ https://cutralco.cdn.rcs.net.ar/mnp/disney/output.mpd
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-LosSimpsonsTV.png" tvg-language="Spanish" group-title="Infantiles", Los Simpsons TV
-http://tilinki.com:25461/herdeyservice/7LeQ5gF8I9/113800
+http://quebuscasaqui.xyz:8080/MoisesUlta/Nj7zFmj7wY/8699
 
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" tvg-language="Spanish" group-title="Entretenimiento", Star Channel
 https://cutralco.cdn.rcs.net.ar/mnp/foxhd/output.mpd
@@ -121,17 +121,17 @@ https://cutralco.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" tvg-language="Spanish" group-title="Entretenimiento", TCM
 https://cutralco.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-id="HBO.Latin.America.HDTV.(East).(HBOHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" tvg-language="Spanish" group-title="Entretenimiento", HBO
-http://45.160.15.1:8111/play/a0ot
+http://181.78.85.154:2022/play/a05l/index.m3u8
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" tvg-language="Spanish" group-title="Entretenimiento", HBO 2
-http://45.160.15.1:8111/play/a0ox
+http://181.78.85.154:2022/play/a05q/index.m3u8
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Plus
 https://cutralco.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(Spanish).(HBOFAMHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Family
-http://45.160.15.1:8111/play/a0ou
+http://181.78.22.70:8000/play/a03z/index.m3u8
 #EXTINF:-1 tvg-id="HBO.POP.HDTV.(Panamerican).(HBOPOP).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Pop
 https://cutralco.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Xtreme
-http://45.160.15.1:8111/play/a0ow
+http://181.78.22.70:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="TNT.Series.SUR.SD.(TNTSERIE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" tvg-language="Spanish" group-title="Entretenimiento", TNT Series
 https://cutralco.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
 #EXTINF:-1 tvg-id="TNT.Novelas.(Sur).(TBS).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" tvg-language="Spanish" group-title="Telenovelas", TNT Novelas
