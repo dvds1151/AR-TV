@@ -125,7 +125,7 @@ http://181.78.12.165:9000/play/a04c
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" tvg-language="Spanish" group-title="Entretenimiento", HBO 2
 http://181.78.12.165:9000/play/a04a
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Plus
-https://f2play.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+http://179.1.87.75:8098/play/a00v/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(Spanish).(HBOFAMHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Family
 http://181.78.12.165:9000/play/a05y
 #EXTINF:-1 tvg-id="HBO.POP.HDTV.(Panamerican).(HBOPOP).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Pop
