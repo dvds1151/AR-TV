@@ -121,23 +121,26 @@ https://f2play.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" tvg-language="Spanish" group-title="Entretenimiento", TCM
 https://f2play.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-id="HBO.Latin.America.HDTV.(East).(HBOHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" tvg-language="Spanish" group-title="Entretenimiento", HBO
-http://190.5.94.246:8000/play/a04m/index.m3u8
+http://181.78.12.165:9000/play/a04c
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" tvg-language="Spanish" group-title="Entretenimiento", HBO 2
-http://190.5.94.246:8000/play/a04v/index.m3u8
+http://181.78.12.165:9000/play/a04a
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Plus
 https://f2play.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(Spanish).(HBOFAMHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Family
-http://190.216.162.155:8000/play/a00r
+http://181.78.12.165:9000/play/a05y
 #EXTINF:-1 tvg-id="HBO.POP.HDTV.(Panamerican).(HBOPOP).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Pop
 https://f2play.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" tvg-language="Spanish" group-title="Entretenimiento", HBO Xtreme
-http://190.116.90.43:8000/play/a00w
+http://181.78.12.165:9000/play/a05z
 #EXTINF:-1 tvg-id="TNT.Series.SUR.SD.(TNTSERIE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" tvg-language="Spanish" group-title="Entretenimiento", TNT Series
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/TNTSeries/SA_HLS/TNTSeries.m3u8
 #EXTINF:-1 tvg-id="TNT.Novelas.(Sur).(TBS).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" tvg-language="Spanish" group-title="Telenovelas", TNT Novelas
 https://f2play.cdn.rcs.net.ar/mnp/tbs/output.mpd
 #EXTINF:-1 tvg-id="225dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png" tvg-language="Spanish" group-title="Telenovelas", Pasiones
 http://190.61.43.117:45000/play/a04x
+
+#EXTINF:-1 tvg-id="233dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png" tvg-language="Spanish" group-title="Cocina", Food Network
+http://181.78.12.165:9000/play/a07f
 
 #EXTINF:-1 tvg-id="MTV.Latin.America.(South.Feed).(MTV).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" tvg-language="Spanish" group-title="Musica", MTV
 https://f2play.cdn.rcs.net.ar/mnp/mtv/output.mpd
