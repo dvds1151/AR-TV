@@ -1,1 +1,4 @@
-peliculas
+#EXTM3U 
+
+#EXTINF:1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjU3N2QxNzYtMjk1NC00MTc4LTk1NTQtMmUxNTljM2I0NDA5XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_FMjpg_UX1000_.jpg" tvg-language="Spanish" group-title="2023", Barbie
+https://be6721.rcr72.waw04.cdn112.com/hls2/01/04600/lvw214mip86u_h/index-v1-a1.m3u8?t=eEy0XEL9sbw_dG4p3TmYdwBQYjPUopga-rKtdqtgLSc&s=1694745304&e=43200&f=23002625&srv=15&asn=266668&sp=2000
