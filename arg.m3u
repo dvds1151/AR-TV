@@ -92,7 +92,7 @@ https://f2play.cdn.rcs.net.ar/mnp/disney/output.mpd
 https://f2play.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-LosSimpsonsTV.png" tvg-language="Spanish" group-title="Infantiles", Los Simpsons TV
-http://quebuscasaqui.xyz:8080/MoisesUlta/Nj7zFmj7wY/8699
+http://servionetv.net:2086/Juan4ds/ky4FbrykJKkZ/453276
 
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" tvg-language="Spanish" group-title="Entretenimiento", Star Channel
 https://f2play.cdn.rcs.net.ar/mnp/foxhd/output.mpd
