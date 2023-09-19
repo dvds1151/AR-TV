@@ -102,7 +102,7 @@ https://f2play.cdn.rcs.net.ar/mnp/fx/output.mpd
 https://f2play.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" tvg-language="Spanish" group-title="Entretenimiento", Space
 https://f2play.cdn.rcs.net.ar/mnp/space/output.mpd
-#EXTINF:-1 tvg-id="Cinecanal.(Argentina).(CINE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" tvg-language="Spanish" group-title="Entretenimiento", Cinecanal
+#EXTINF:-1 tvg-id="Cinecanal.+.HDTV.(Latin.America).(CIN+H).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" tvg-language="Spanish" group-title="Entretenimiento", Cinecanal
 https://f2play.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-id="AXN.(Argentina).(AXN).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png" tvg-language="Spanish" group-title="Entretenimiento", AXN
 https://f2play.cdn.rcs.net.ar/mnp/axn/output.mpd
