@@ -14,6 +14,8 @@ https://comodoro.cdn.rcs.net.ar/mnp/cronica/output.mpd
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/Canal_26/SA_HLS/Canal_26.m3u8
 #EXTINF:-1 tvg-id="América.24.(AME24).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" tvg-language="Spanish" group-title="Nacionales", A24
 https://comodoro.cdn.rcs.net.ar/mnp/a24/output.mpd
+#EXTINF:-1 tvg-id="TN.(Todo.Noticias).Argentina.(TN).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Nacionales", TN
+https://comodoro.cdn.rcs.net.ar/mnp/tn/output.mpd
 #EXTINF:-1 tvg-id="1715dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" tvg-language="Spanish" group-title="Nacionales", La Nación +
 https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 #EXTINF:-1 tvg-id="123dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" tvg-language="Spanish" group-title="Nacionales", Telefé
