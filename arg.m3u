@@ -32,7 +32,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 #EXTINF:-1 tvg-id="euronews.(EUNEWS).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-EuroNews.png" tvg-language="Spanish" group-title="Internacionales", Euronews Español
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="704dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Internacionales", CNN en Español
-http://45.228.232.205:16000/play/a02u/index.m3u8
+http://181.78.78.105:8000/play/a0iz/index.m3u8
 #EXTINF:-1 tvg-id="231dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="Internacionales", Telemundo Internacional
 https://comodoro.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 #EXTINF:-1 tvg-id="canal-9-snt.py" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-SNT.png" tvg-language="Spanish" group-title="Internacionales", SNT
@@ -103,11 +103,11 @@ https://comodoro.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/129313
 
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="Entretenimiento", Star Channel
-https://comodoro.cdn.rcs.net.ar/mnp/fox_hd/output.mpd
+https://comodoro.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-id="FX.Latin.America.(Argentina).(FX).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="Entretenimiento", FX
 https://comodoro.cdn.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1 tvg-id="Cinemax.(South).(CINEMAX).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
-http://170.254.18.106/CINEMAX/index.m3u8
+http://45.5.151.151:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
 https://comodoro.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-id="Cinecanal.+.HDTV.(Latin.America).(CIN+H).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Entretenimiento", Cinecanal
@@ -133,11 +133,11 @@ http://181.78.12.165:9000/play/a04c
 #EXTINF:-1 tvg-id="525dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png" audio-track="spa" group-title="Entretenimiento", HBO 2
 http://181.78.12.165:9000/play/a04a
 #EXTINF:-1 tvg-id="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png" audio-track="spa" group-title="Entretenimiento", HBO Plus
-http://181.204.79.182:8202/play/a02v
+http://45.190.187.105:58091/play/a00g/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Family.HDTV.(Spanish).(HBOFAMHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png" audio-track="spa" group-title="Entretenimiento", HBO Family
 http://181.78.12.165:9000/play/a05y
 #EXTINF:-1 tvg-id="HBO.POP.HDTV.(Panamerican).(HBOPOP).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png" audio-track="spa" group-title="Entretenimiento", HBO Pop
-http://170.254.18.109/HBO_POP/index.m3u8
+http://38.43.150.126:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="Entretenimiento", HBO Xtreme
 http://181.78.12.165:9000/play/a05z
 #EXTINF:-1 tvg-id="TNT.Series.SUR.SD.(TNTSERIE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" audio-track="spa" group-title="Entretenimiento", TNT Series
@@ -155,7 +155,7 @@ https://comodoro.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourm
 #EXTINF:-1 tvg-id="221dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="Espectaculo", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
 #EXTINF:-1 tvg-id="222dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-E.png" audio-track="spa" group-title="Espectaculo", E!
-http://45.70.201.252:8889/play/a02p/index.m3u8
+http://45.5.151.151:8000/play/a0c2/index.m3u8
 #EXTINF:-1 tvg-id="236dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png" group-title="Espectaculo", Ciudad Magazine
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/index.m3u8
 
