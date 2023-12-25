@@ -175,11 +175,12 @@ https://kmmplay.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-id="Much.Music.(Latin.America).(MUCHLA).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MuchMusic.png" audio-track="spa" group-title="Musica", Much Music
 https://kmmplay.cdn.rcs.net.ar/mnp/much_music/output.mpd
 
-#EXTINF:-1 tvg-id="622dtv.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="Deportes", ESPN
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key="e884b711ab111beb8a7ba1e7bcbdc9bf":"cb89ee3961599e3e648a5aad60895f34"
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-
-
-
+#EXTINF:-1 tvg logo="https://cdn2.sfntv.xyz/webp/logos/optimized/directv.webp" group-title="DEPORTES", DIRECTV SPORT 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct" group-title="Lista Sport", "kid":"qwIKFxDWMBaN4haYN1pDnA" group-title="Lista Sport", "k":"I1iYzbELDNujXqLOlPux+w"}]}
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=Chrome/61.03163.100
+#EXTVLCOPT--http-reconnect=true
+https://1063-vos.dtvott.com/DASH/manifest.mpd
