@@ -175,12 +175,7 @@ https://kmmplay.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-id="Much.Music.(Latin.America).(MUCHLA).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MuchMusic.png" audio-track="spa" group-title="Musica", Much Music
 https://kmmplay.cdn.rcs.net.ar/mnp/much_music/output.mpd
 
-#EXTINF:-1 tvg logo="https://cdn2.sfntv.xyz/webp/logos/optimized/directv.webp" group-title="DEPORTES", DIRECTV SPORT 2
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3 .clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys" :[{"kty":"oct" group-title="Lista Sport", "kid":"qwIKFxDWMBaN4haYN1pDnA" group-title="Lista Sport", "k":"I1iYzbELDNujXqLOlPux+w"}]}
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=Chrome/61.03163.100
-#EXTVLCOPT--http-reconnect=true
-https://1063-vos.dtvott.com/DASH/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png" tvg-group="Nacionales",America
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+https://edge10-sl.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
