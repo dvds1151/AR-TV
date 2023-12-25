@@ -112,11 +112,11 @@ https://kmmplay.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 http://magmas5.com:8000/HVWBF1I51U/5XN1TBAK24/129313
 
 #EXTINF:-1 tvg-id="STAR.International.(Argentina).(STAR).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="Entretenimiento", Star Channel
-https://kmmplay.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+http://181.78.208.254:8010/play/a048/index.m3u8
 #EXTINF:-1 tvg-id="FX.Latin.America.(Argentina).(FX).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="Entretenimiento", FX
 http://181.78.20.119:8002/play/a00h/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.(South).(CINEMAX).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
-https://kmmplay.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+http://181.119.64.254:45000/play/a022/index.m3u8
 #EXTINF:-1 tvg-id="Space.(Sur).(SPACE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
 http://181.78.12.165:9000/play/a03o
 #EXTINF:-1 tvg-id="Cinecanal.+.HDTV.(Latin.America).(CIN+H).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Entretenimiento", Cinecanal
@@ -128,13 +128,13 @@ https://kmmplay.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 tvg-id="824dtv.cl" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Entretenimiento", Paramount Channel
 http://181.78.12.165:9000/play/a08e
 #EXTINF:-1 tvg-id="Sony.Entertainment.Television.(Argentina).(SONY).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
-https://kmmplay.cdn.rcs.net.ar/mnp/sony/output.mpd
+http://181.78.208.254:8010/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="Universal.Channel.(Argentina).(UNIVE).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="Entretenimiento", Universal TV
 https://kmmplay.cdn.rcs.net.ar/mnp/universal/output.mpd
 #EXTINF:-1 tvg-id="AMC.(South).(AMC).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" audio-track="spa" group-title="Entretenimiento", AMC
 http://181.78.12.165:9000/play/a048
 #EXTINF:-1 tvg-id="TNT.Latin.America.(Argentina).(TNT).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png" audio-track="spa" group-title="Entretenimiento", TNT
-https://kmmplay.cdn.rcs.net.ar/mnp/tnt/output.mpd
+http://181.78.208.254:8010/play/a09e/index.m3u8
 #EXTINF:-1 tvg-id="TCM.-.Turner.Classic.Movies.(Argentina).(TCMLA).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png" audio-track="spa" group-title="Entretenimiento", TCM
 https://kmmplay.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-id="HBO.Latin.America.HDTV.(East).(HBOHD).ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png" audio-track="spa" group-title="Entretenimiento", HBO
