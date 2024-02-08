@@ -13,7 +13,3 @@ EPG:
 https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml
 ```
 
-```
-https://epg.programadorx.cl/mdiaz/gratis.xml
-```
-
