@@ -27,6 +27,8 @@ https://router.cdn.rcs.net.ar/mnp/el9/output.mpd
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Nacionales", América
 https://ythls.armelin.one/channel/UC6NVDkuzY2exMOVFw4i9oHw.m3u8
 
+#EXTINF:-1 tvg-id="ElDoce.ar" tvg-logo="" group-title="Provinciales", El Doce Córdoba
+https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png" group-title="Provinciales", Canal 12 Misiones
 https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
 
