@@ -83,11 +83,11 @@ http://200.4.217.20:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="Deportes", ESPN 3
 http://200.4.217.20:8000/play/a00k/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="Deportes", FOX Sports
-https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135645
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="Deportes", FOX Sports 2
-https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135646
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Deportes", FOX Sports 3
-https://loadbalancer20.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135647
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports
 https://loadbalancer20.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png" group-title="Deportes", ESPN Premium
