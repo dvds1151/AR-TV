@@ -43,16 +43,16 @@ https://rakuten-euronews-4-es.samsung.wurl.tv/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Internacionales", CNN en Español
 http://38.41.8.1:8000/play/a059
 #EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="Internacionales", Telemundo Internacional
-https://supporttv.cdn.rcs.net.ar/mnp/telemundo/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/telemundo/output.mpd
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png", Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png" audio-track="spa"  group-title="Culturales", Encuentro
-https://supporttv.cdn.rcs.net.ar/mnp/encuentro/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/encuentro/output.mpd
 #EXTINF:-1 tvg-id="DiscoveryChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" audio-track="spa" group-title="Culturales", Discovery Channel
-https://supporttv.cdn.rcs.net.ar/mnp/discovery/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-id="TLC.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Culturales", Discovery TLC
-https://supporttv.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 #EXTINF:-1 tvg-id="DiscoveryTurboPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="Culturales", Discovery Turbo
 http://45.5.151.151:8000/play/a01f/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="Culturales", Discovery H&H
@@ -64,7 +64,7 @@ http://8.242.175.221:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="Culturales", National Geographic
 http://45.5.151.151:8000/play/a0jx/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet
-https://supporttv.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+https://cyberuno.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-ID.png" audio-track="spa" group-title="Culturales", Investigation Discovery (ID)
 http://38.56.109.19/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="AESouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png" audio-track="spa" group-title="Culturales", A&E
@@ -77,7 +77,7 @@ http://45.5.151.151:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
-https://supporttv.cdn.rcs.net.ar/mnp/espn/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="Deportes", ESPN 2
 http://45.5.151.151:8000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="Deportes", ESPN 3
@@ -89,9 +89,9 @@ http://45.5.151.151:8000/play/a0ce/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Deportes", FOX Sports 3
 http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135647
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports
-https://supporttv.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png" group-title="Deportes", ESPN Premium
-https://supporttv.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
+https://cyberuno.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN CH
 http://45.5.151.151:8000/play/a0fe/index.m3u8
@@ -107,9 +107,9 @@ http://45.5.151.151:8000/play/a08v/index.m3u8
 #EXTINF:-1 tvg-id="NickJrSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png" audio-track="spa" group-title="Infantiles", Nick Jr
 http://45.5.151.151:8000/play/a0jr/index.m3u8
 #EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="Infantiles", Disney Jr
-https://supporttv.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
-https://supporttv.cdn.rcs.net.ar/mnp/boomerang/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-LosSimpsonsTV.png" tvg-language="Spanish" group-title="Infantiles", Los Simpsons 1 TV
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/790.ts
@@ -117,23 +117,23 @@ http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/790.ts
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/791.ts
 
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="Entretenimiento", Star Channel
-https://supporttv.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="Entretenimiento", FX
-https://supporttv.cdn.rcs.net.ar/mnp/fx/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/fx/output.mpd
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
 http://45.5.151.151:8000/play/a0bu/index.m3u8
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
-https://supporttv.cdn.rcs.net.ar/mnp/space/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Entretenimiento", Cinecanal
-https://supporttv.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-id="ar#axn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png" audio-track="spa" group-title="Entretenimiento", AXN
-https://supporttv.cdn.rcs.net.ar/mnp/axn/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/axn/output.mpd
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="Entretenimiento", Warner Channel
-https://supporttv.cdn.rcs.net.ar/mnp/warner/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Entretenimiento", Paramount Channel
 http://45.5.151.151:8000/play/a0je/index.m3u8
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
-https://supporttv.cdn.rcs.net.ar/mnp/sony/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/sony/output.mpd
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="Entretenimiento", Universal TV
 http://45.5.151.151:8000/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" audio-track="spa" group-title="Entretenimiento", AMC
@@ -164,7 +164,7 @@ http://190.61.43.117:45000/play/a04x
 #EXTINF:-1 tvg-id="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png" audio-track="spa" group-title="Cocina", Food Network
 http://38.56.109.19/play/a01h/index.m3u8
 #EXTINF:-1 tvg-id="ElGourmetSouth.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png" audio-track="spa" group-title="Cocina", El Gourmet
-https://supporttv.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
+https://cyberuno.cdn.rcs.net.ar/anevia/live/localdisk/El_Gourmet/SA_HLS/El_Gourmet.m3u8
 
 #EXTINF:-1 tvg-id="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png" audio-track="spa" group-title="Espectaculo", Hola TV
 https://live.atresmediainternacional.com/ATRESMEDIA/holatv-index.m3u8
@@ -175,8 +175,8 @@ http://45.5.151.151:8000/play/a020/index.m3u8
 
 
 #EXTINF:-1 tvg-id="MTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png" audio-track="spa" group-title="Musica", MTV
-https://supporttv.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8
+https://cyberuno.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8
 #EXTINF:-1 tvg-id="HTV.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png" audio-track="spa" group-title="Musica", HTV
-https://supporttv.cdn.rcs.net.ar/mnp/htv/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-id="Much.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MuchMusic.png" audio-track="spa" group-title="Musica", Much Music
-https://supporttv.cdn.rcs.net.ar/mnp/much_music/output.mpd
+https://cyberuno.cdn.rcs.net.ar/mnp/much_music/output.mpd
