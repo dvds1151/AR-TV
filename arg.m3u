@@ -119,9 +119,9 @@ http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/790.ts
 http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/791.ts
 
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="Entretenimiento", Star Channel
-https://tvfuego.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+http://138.121.15.228:8000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="Entretenimiento", FX
-https://tvfuego.cdn.rcs.net.ar/mnp/fx/output.mpd
+http://45.5.151.151:8000/play/a088/index.m3u8
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
 http://45.5.151.151:8000/play/a0bu/index.m3u8
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
