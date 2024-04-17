@@ -77,7 +77,7 @@ http://45.5.151.151:8000/play/a0f2/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
-http://45.5.151.151:8000/play/a0cc/index.m3u8
+http://168.232.168.242:4000/play/a05e/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="Deportes", ESPN 2
 http://45.5.151.151:8000/play/a0cb/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="Deportes", ESPN 3
