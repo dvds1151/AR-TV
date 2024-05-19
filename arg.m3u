@@ -62,7 +62,7 @@ http://187.102.208.83:50000/play/a02i/index.m3u8
 #EXTINF:-1 tvg-id="History2Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
 http://138.121.15.228:8000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="Culturales", NatGeo
-https://globalnet.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
+http://45.5.151.151:8000/play/a0jx/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet
 http://187.102.208.83:50000/play/a00o/index.m3u8
 #EXTINF:-1 tvg-id="InvestigationDiscoverySouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-ID.png" audio-track="spa" group-title="Culturales", Investigation Discovery (ID)
@@ -77,7 +77,7 @@ http://187.102.208.83:50000/play/a04f/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
-https://globalnet.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
+http://45.5.151.151:8000/play/a0cc/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="Deportes", ESPN 2
 http://187.102.208.83:50000/play/a02p/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="Deportes", ESPN 3
@@ -122,15 +122,15 @@ http://ultra-premium-pro.xyz:8080/live/ericksepulvedatv/p7g6hi/791.ts
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="Entretenimiento", Star Channel
 https://globalnet.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-id="FXSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png" audio-track="spa" group-title="Entretenimiento", FX
-https://globalnet.cdn.rcs.net.ar/mnp/fx/output.mpd
+http://187.102.208.83:50000/play/a004/index.m3u8
 #EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png" audio-track="spa" group-title="Entretenimiento", Cinemax
-https://globalnet.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+http://45.5.151.151:8000/play/a0bu/index.m3u8
 #EXTINF:-1 tvg-id="SpacePanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png" audio-track="spa" group-title="Entretenimiento", Space
 http://181.78.27.128:8000/play/a034/index.m3u8
 #EXTINF:-1 tvg-id="CinecanalEast.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png" audio-track="spa" group-title="Entretenimiento", Cinecanal
-https://globalnet.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+http://181.78.4.186:8000/play/a0dn/index.m3u8
 #EXTINF:-1 tvg-id="ar#axn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png" audio-track="spa" group-title="Entretenimiento", AXN
-http://187.102.208.83:50000/play/a02m/index.m3u8
+http://45.5.151.151:8000/play/a0jz/index.m3u8
 #EXTINF:-1 tvg-id="WarnerChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png" audio-track="spa" group-title="Entretenimiento", Warner Channel
 http://187.102.208.83:50000/play/a02l/index.m3u8
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Paramount.png" tvg-language="Spanish" group-title="Entretenimiento", Paramount Channel
@@ -138,7 +138,7 @@ http://187.102.208.83:50000/play/a00i/index.m3u8
 #EXTINF:-1 tvg-id="ar#sony-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png" audio-track="spa" group-title="Entretenimiento", Sony Channel
 http://187.102.208.83:50000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="UniversalTVSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png" audio-track="spa" group-title="Entretenimiento", Universal TV
-http://138.59.227.148:5151/play/a0en
+http://45.5.151.151:8000/play/a0cl/index.m3u8
 #EXTINF:-1 tvg-id="StudioUniversalSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StudioUniversal.png" audio-track="spa" group-title="Entretenimiento", Studio Universal
 http://187.102.208.83:50000/play/a00j/index.m3u8
 #EXTINF:-1 tvg-id="AMCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png" audio-track="spa" group-title="Entretenimiento", AMC
@@ -160,9 +160,9 @@ http://181.78.83.146:8000/play/a0e6/index.m3u8
 #EXTINF:-1 tvg-id="HBOXtremeLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png" audio-track="spa" group-title="Entretenimiento", HBO Xtreme
 http://190.119.127.236:8000/play/a00u/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png" audio-track="spa" group-title="Entretenimiento", TNT Series
-http://167.250.39.130:8000/play/tntseries
+http://45.5.151.151:8000/play/a0ka/index.m3u8
 #EXTINF:-1 tvg-id="TBSSouth.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png" audio-track="spa" group-title="Telenovelas", TNT Novelas
-http://167.250.39.130:8000/play/tbs
+http://45.5.151.151:8000/play/a0jw/index.m3u8
 #EXTINF:-1 tvg-id="PasionesLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png" audio-track="spa" group-title="Telenovelas", Pasiones
 http://167.250.39.130:8000/play/pasiones
 
