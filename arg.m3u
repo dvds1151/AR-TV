@@ -92,7 +92,7 @@ http://magmas5.com:8000/UK0NMK78C3/6XA15D0TF9/135647
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png" group-title="Deportes", ESPN Premium SD
 http://45.5.151.151:8000/play/a0fe/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports SD
-http://45.5.151.151:8000/play/a002/index.m3u8
+http://181.78.10.121:27000/play/a015/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="Infantiles", Cartoon Network
 http://45.5.151.151:8000/play/a0ir/index.m3u8
