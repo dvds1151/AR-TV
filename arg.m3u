@@ -83,7 +83,7 @@ http://168.197.196.98:82/stream/channelid/639969912?profile=pass
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="Deportes", ESPN 3
 http://45.176.232.106:45000/play/a08k/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="Deportes", FOX Sports
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+http://168.197.196.98:82/stream/channelid/781949579?profile=pass
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="Deportes", FOX Sports 2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Deportes", FOX Sports 3
@@ -95,7 +95,7 @@ http://45.5.151.151:8000/play/a0fe/index.m3u8
 http://45.5.151.151:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Eventos
-http://190.102.246.93:9005/play/a02d
+http://200.59.188.3:8000/play/a02g
 
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="Infantiles", Cartoon Network
 http://181.176.153.106:8090/play/a0k4/index.m3u8
