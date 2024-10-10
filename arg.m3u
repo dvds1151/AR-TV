@@ -73,17 +73,17 @@ http://168.197.196.98:82/stream/channelid/480984636?profile=pass
 http://200.59.188.3:8000/play/a05p
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="Deportes", DEPORTV
-http://168.197.196.98:82/stream/channelid/1305008823?profile=pass
+http://45.5.151.151:8000/play/a0ps/index.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
-https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
+http://45.5.151.151:8000/play/a0pj/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
-http://168.197.196.98:82/stream/channelid/1093734737?profile=pass
+http://45.5.151.151:8000/play/a0o0/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="Deportes", ESPN 2
-http://168.197.196.98:82/stream/channelid/639969912?profile=pass
+http://45.5.151.151:8000/play/a0nv/index.m3u8
 #EXTINF:-1 tvg-id="ar#espn-3" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png" group-title="Deportes", ESPN 3
-http://45.176.232.106:45000/play/a08k/index.m3u8
+http://45.5.151.151:8000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png" group-title="Deportes", FOX Sports
-http://168.197.196.98:82/stream/channelid/781949579?profile=pass
+http://45.5.151.151:8000/play/a0nw/index.m3u8
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png" group-title="Deportes", FOX Sports 2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 tvg-id="FoxSports3Panregional.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png" group-title="Deportes", FOX Sports 3
