@@ -95,7 +95,7 @@ http://45.5.151.151:8000/play/a0fe/index.m3u8
 http://45.5.151.151:8000/play/a002/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Eventos
-http://200.59.188.3:8000/play/a02g
+http://45.181.123.233:8000/play/a0o9
 
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="Infantiles", Cartoon Network
 http://181.176.153.106:8090/play/a0k4/index.m3u8
