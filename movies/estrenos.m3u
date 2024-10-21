@@ -1,5 +1,39 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/migration/posters/02.jpg" tvg-language="Spanish" group-title="2023", ¡Patos!
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76616.mkv
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmZiMzM3YzktMDdhNS00NTkzLWJmNWYtNDFjOWNhYjE4ZjQ3XkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", 60 minutos
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76577.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWVhYTNhMzctNjE3Yi00MTcxLTk3ZTctYWU5OTY4YWZkY2NmXkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", Beekeeper: Sentencia de Muerte
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76683.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BN2NjMGE5MGUtMTQ2Zi00ZmNmLTlhNjctYzEwNmI1NDU1M2Q2XkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", Cazadores en tierra inhóspita
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76625.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMDczYTgwNjEtNmExYy00YzA4LTg0YjUtYjkxNzE4YzZmZGQ2XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-language="Spanish" group-title="2024", Combate clandestino
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76739.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNjdkYjNkMGEtMDdmZC00MWVkLWE0NWEtNzdhYTFlM2E4ODNjXkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", Criptoestafas
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76489.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZmY1NDUwN2ItMTIwOC00YTU0LWJkY2YtOWIxZWRjMWI0ODczXkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", De las cenizas
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76574.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTljMWNkOTgtYjFlMC00NzcxLWFhMTktMDhmZWIxMjBhNWJmXkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", El aprendiz del tigre
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76663.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNGY0NDk5YjYtMTI0Zi00ZDc4LTk3NzEtYmUyNDNlN2U1ZmYwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-language="Spanish" group-title="2024", El astronauta
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76777.mkv
+#EXTINF:-1 tvg-logo="https://www.universalpictures.com.ar/tl_files/content/movies/kung_fu_panda_4/kung-fu-panda-4_header-mobile.jpg" tvg-language="Spanish" group-title="2024", Kung Fu Panda 4
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/77059.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmQ5YWNkMzktNGY0YS00NGI3LWE1MmItNzlkYzYyZDczNGY1XkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", One More Shot
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76530.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMzgwNGU0NzEtZjMyMy00Mjc5LWFiMmYtMzIxNmY1OTIwYmU3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-language="Spanish" group-title="2024", Orión y la oscuridad
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76661.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYTliNzY1YWEtZmQ5MS00NDZlLTg0ODctOWNmNTFkOGIyODI1XkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", Rescate Imposible
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76738.mp4
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTRhM2Q0MWYtZGU3MC00ZDIzLWE0NzYtMzY3MjRhMGIwOWNkXkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", Si Fueras el Último
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76613.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYmU1ZTliMWItODJkOC00ZWFhLTlkYmItMGIxNTdkOGYyNDk1XkEyXkFqcGc@._V1_.jpg" tvg-language="Spanish" group-title="2024", Suncoast
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76681.mkv
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZGUwMTdmM2YtNWY0Ni00YzdhLTg1ZjctNzQ0NGRhNjA3Mjk3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-language="Spanish" group-title="2024", Viviendo mi película
+http://stklatino.dynns.com:2082/movie/Josemontes/Montes22120/76704.mkv
+
 #EXTINF:-1 tvg-logo="https://www.justwatch.com/images/poster/814556/s718/temporada-1.jpg" tvg-language="Spanish" group-title="Los Simpsons",Los Simpson S01 E01
 http://stklatino.dynns.com:2082/series/Josemontes/Montes22120/11777.mp4
 #EXTINF:-1 tvg-logo="https://www.justwatch.com/images/poster/814556/s718/temporada-1.jpg" tvg-language="Spanish" group-title="Los Simpsons",Los Simpson S01 E02
