@@ -95,7 +95,9 @@ http://192.141.95.253:8000/play/a03f/index.m3u8
 http://192.141.95.253:8000/play/a02h/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Eventos
-http://216.155.91.47:8000/play/a0bn/index.m3u8
+http://207.248.3.81:8081/play/a0ev
+#EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Colombia
+http://45.65.137.213:8000/play/a0gv/index.m3u8 
 
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="Infantiles", Cartoon Network
 http://192.141.95.253:8000/play/a03b/index.m3u8
