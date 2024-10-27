@@ -73,9 +73,9 @@ http://170.83.242.9:5151/play/a03w
 http://200.59.188.3:8000/play/a05p
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png" group-title="Deportes", DEPORTV
-http://45.5.151.151:8000/play/a0ps/index.m3u8
+http://home-playtv.com:8080/59899797870/GEYQE/19709
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png" group-title="Deportes", TyC Sports
-http://192.141.95.253:8000/play/a02f/index.m3u8
+http://home-playtv.com:8080/59899797870/GEYQE/21222
 #EXTINF:-1 tvg-id="ar#espn-2" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN
 http://home-playtv.com:8080/59899797870/GEYQE/454719
 #EXTINF:-1 tvg-id="ar#espn" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png" group-title="Deportes", ESPN 2
