@@ -95,9 +95,9 @@ http://181.209.114.13:8000/play/a078/index.m3u8
 http://home-playtv.com:8080/59899797870/GEYQE/211363
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Chile
-http://181.78.82.6:46090/play/a03d/index.m3u8 
+http://167.250.180.251:4000/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Colombia
-http://home-playtv.com:8080/59899797870/GEYQE/519821
+http://190.60.49.244:4000/play/a07d
 
 #EXTINF:-1 tvg-id="CartoonNetworkSouthAtlantic.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png" audio-track="spa" group-title="Infantiles", Cartoon Network
 http://170.83.242.9:5151/play/a0ln
