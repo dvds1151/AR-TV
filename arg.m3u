@@ -187,3 +187,7 @@ https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/htv/output.mpd
 #EXTINF:-1 tvg-id="Much.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MuchMusic.png" audio-track="spa" group-title="Musica", Much Music
 https://delivery.cdn.rcs.net.ar/mnp/much_music/output.mpd
+
+
+#EXTINF:0, Cinemax
+https://1046-vos.dtvott.com/DASH/manifest.mpd?key=7ac053ce4a6c3786a71c23c36bfed028&key2=b324da5a858840ee79ba4bc1df9ffd95
