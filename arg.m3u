@@ -189,5 +189,7 @@ https://delivery.cdn.rcs.net.ar/mnp/htv/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/much_music/output.mpd
 
 
-#EXTINF:0, Cinemax
-https://1046-vos.dtvott.com/DASH/manifest.mpd?key=7ac053ce4a6c3786a71c23c36bfed028&key2=b324da5a858840ee79ba4bc1df9ffd95
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7ac053ce4a6c3786a71c23c36bfed028:b324da5a858840ee79ba4bc1df9ffd95
+#EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="", Cinemax DTV
+https://1046-vos.dtvott.com/DASH/manifest.mpd
