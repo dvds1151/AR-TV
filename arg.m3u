@@ -190,6 +190,6 @@ https://delivery.cdn.rcs.net.ar/mnp/much_music/output.mpd
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7ac053ce4a6c3786a71c23c36bfed028:b324da5a858840ee79ba4bc1df9ffd95
-#EXTINF:-1 tvg-id="ar#cinemax-sur" tvg-logo="", Cinemax DTV
-https://1046-vos.dtvott.com/DASH/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=e866499fbc1149f49989672075aa3a68:d2dd5c95623c6343240981c2202fc311
+#EXTINF:-1 tvg-id="ar#cinemax-sur", HBO S
+https://edge-live32-hr.cvattv.com.ar/live/c6eds/HBO_Signature/SA_Live_dash_enc/HBO_Signature.mpd
