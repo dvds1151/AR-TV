@@ -189,7 +189,13 @@ https://delivery.cdn.rcs.net.ar/mnp/htv/output.mpd
 https://delivery.cdn.rcs.net.ar/mnp/much_music/output.mpd
 
 
+#EXTINF:-1 tvg-logo="", Warner
+#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="Firefox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecbe97ec34784304b390a12ba3854ccf:5a0ee36ed9b8920cb19546fd92f2d415
-#EXTINF:-1 tvg-id="ar#cinemax-sur", H2
-https://edge-mix02-ird.cvattv.com.ar/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd
+#KODIPROP:inputstream.adaptive.license_key=069bd3f0b6c279467e08549f17bf5bd0:5afa7e369a6de1093818a85af912a775
+https://edge-live02-mun.cvattv.com.ar/live/c7eds/WarnerHD/SA_Live_dash_enc/WarnerHD.mpd
