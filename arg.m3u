@@ -32,8 +32,6 @@ https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTVLCOPT:http-user-agent=iPhone
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
 
-#EXTINF:-1 tvg-id="ar#el-doce" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-ElDoce.png" group-title="Provinciales", El Doce Córdoba
-https://ythls.armelin.one/channel/UCiaePeoCqpU8hBHiNrgkzrA.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png" group-title="Provinciales", Canal 12 Misiones
 https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8
 
