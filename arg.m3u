@@ -28,18 +28,6 @@ https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Nacionales", América
 https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
 
-#EXTINF:-1 tvg-logo="https://heroeip.github.io/logo/LN.png", LN+
-#EXTGRP:NOTICIAS
-#EXTVLCOPT:http-referrer="https://web.app.flow.com.ar/"
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent="Firefox"
-#EXTVLCOPT--http-reconnect=true
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
-https://edge-live02-mun.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
-
 #EXTINF:-1 tvg-id="CanalLuz.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/10-CanalLuz.png" user-agent="iPhone" group-title="Cristianos", Canal Luz
 #EXTVLCOPT:http-user-agent=iPhone
 https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8
