@@ -24,7 +24,7 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="Nacionales", El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
-https://loadbalancer22.cdn.rcs.net.ar/mnp/elnueve/output.mpd
+https://ayf.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 tvg-id="AmericaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png" group-title="Nacionales", América
 https://loadbalancer22.cdn.rcs.net.ar/mnp/america/output.mpd
 
