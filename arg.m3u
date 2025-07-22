@@ -9,7 +9,7 @@ http://143.0.67.77:8000/play/a01p/index.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="Nacionales", TV Pública
 http://143.0.67.77:8000/play/a056/index.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Nacionales", Crónica HD
-http://143.0.67.77:8000/play/a01q/index.m3u8
+http://190.123.90.146:8000/play/a005/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="Nacionales", Canal 26
 http://143.0.67.77:8000/play/a01r/index.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales" user-agent="iPhone", A24
