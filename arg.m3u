@@ -20,7 +20,7 @@ http://201.217.247.165:8000/play/a097/index.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación +
 http://201.217.247.165:8000/play/a05y/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefé
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
+http://201.217.247.165:8000/play/a08a/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="Nacionales", El Trece
 http://201.217.247.165:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
