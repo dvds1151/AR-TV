@@ -42,8 +42,8 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/strea
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png" tvg-language="Spanish" group-title="Internacionales", CNN en Español
 http://200.219.40.1:8000/play/a054/index.m3u8
-#EXTINF:-1 tvg-id="elemundoInternacional.us@CentralAmerica" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="Internacionales", Telemundo Internacional [X]
-http://45.5.151.62:8000/play/a08p/index.m3u8
+#EXTINF:-1 tvg-id="elemundoInternacional.us@CentralAmerica" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png" tvg-language="Spanish" group-title="Internacionales", Telemundo Internacional
+http://181.78.27.128:12543/play/a04i/index.m3u8
 #EXTINF:-1 tvg-id="Telesur.ve" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png", Telesur
 http://45.173.75.4:2061/play/a0an
 #EXTINF:-1 tvg-id="TVGloboInternacionalAmericas.br" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-TVGlobo.png", TV Globo
@@ -53,8 +53,8 @@ http://200.115.112.44:4848/play/a07v
 http://200.219.40.1:8000/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryChannelLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png" audio-track="spa" group-title="Culturales", Discovery Channel
 http://200.219.40.1:8000/play/a07i/index.m3u8
-#EXTINF:-1 tvg-id="TLCLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Culturales", Discovery TLC [X]
-http://45.5.151.62:8000/play/a07r/index.m3u8
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png" tvg-description="Cultural" audio-track="spa" group-title="Culturales", Discovery TLC
+http://181.78.27.128:12543/play/a03t/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryTurboLatinAmerica.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png" audio-track="spa" group-title="Culturales", Discovery Turbo
 http://200.219.40.1:8000/play/a01w/index.m3u8
 #EXTINF:-1 tvg-id="DiscoveryHomeHealthLatinAmerica.mx@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png" audio-track="spa" group-title="Culturales", Discovery H&H
@@ -64,11 +64,11 @@ http://200.219.40.1:8000/play/a051/index.m3u8
 #EXTINF:-1 tvg-id="History2LatinAmerica.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png" audio-track="spa" group-title="Culturales", History 2
 http://200.219.40.1:8000/play/a0ab/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographicLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png" audio-track="spa" group-title="Culturales", NatGeo
-http://45.5.151.62:8000/play/a08f/index.m3u8
+http://181.78.27.128:12543/play/a02z/index.m3u8
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png" audio-track="spa" group-title="Culturales", Animal Planet [X]
 http://45.5.151.62:8000/play/a07g/index.m3u8
-#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-ID.png" audio-track="spa" group-title="Culturales", Investigation Discovery (ID) [X]
-http://45.5.151.62:8000/play/a07o/index.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryLatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-ID.png" audio-track="spa" group-title="Culturales", Investigation Discovery (ID)
+http://181.78.27.128:12543/play/a02w/index.m3u8
 #EXTINF:-1 tvg-id="AELatinAmerica.us@South" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png" audio-track="spa" group-title="Culturales", A&E
 http://200.219.40.1:8000/play/a05i/index.m3u8
 #EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Panregional" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png" audio-track="spa" group-title="Culturales", Lifetime
@@ -113,8 +113,8 @@ http://200.219.40.1:8000/play/a06t/index.m3u8
 http://200.219.40.1:8000/play/a06u/index.m3u8
 #EXTINF:-1 tvg-id="ar#disney-jr" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png" audio-track="spa"group-title="Infantiles", Disney Jr
 http://200.219.40.1:8000/play/a04y/index.m3u8
-#EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Tooncast [X]
-http://45.5.151.62:8000/play/a08t/index.m3u8
+#EXTINF:-1 tvg-id="ar#boomerang-cartoon" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png" audio-track="spa" group-title="Infantiles", Cartoonito
+http://181.78.27.128:12543/play/a003/index.m3u8
 
 
 #EXTINF:-1 tvg-id="ar#fox-hd" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png" audio-track="spa" group-title="Entretenimiento", Star Channel
