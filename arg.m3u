@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-guide="https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml" tv-test="arg.m3u"
 
-#EXTINF:-1 tvg-id="" tvg-logo="", [Actualizado 28/02/2026 - 03:40]
+#EXTINF:-1 tvg-id="" tvg-logo="", [Actualizado 02/03/2026 - 22:34]
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="NETTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png" group-title="Nacionales", Net TV
 https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
@@ -89,9 +89,9 @@ http://190.7.19.197:232/play/a03p/index.m3u8
 http://190.7.19.197:232/play/a04x/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPNPremium.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png" group-title="Deportes", ESPN Premium
-http://190.7.19.197:232/play/a038/index.m3u8
+http://181.209.37.74:8001/play/a086/index.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png" group-title="Deportes", TNT Sports
-http://190.7.19.197:232/play/a037/index.m3u8
+http://181.209.37.74:8001/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="ar#espn-1" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png" group-title="Deportes", ESPN Chile
 http://45.173.229.190:8083/play/a0k7/index.m3u8
