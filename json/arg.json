@@ -1,42 +1,42 @@
 [
   {
-    "title": "Google",
+    "title": "Net TV",
     "url": "https://google.com",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png"
   },
   {
-    "title": "YouTube",
+    "title": "Telemax",
     "url": "https://youtube.com",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png"
   },
   {
-    "title": "Google",
+    "title": "C5N",
     "url": "https://google.com",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png"
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png"
   },
   {
-    "title": "YouTube",
+    "title": "TV Pública",
     "url": "https://youtube.com",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png"
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png"
   },
   {
-    "title": "Google",
+    "title": "Crónica TV",
     "url": "https://google.com",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png"
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png"
   },
   {
-    "title": "YouTube",
+    "title": "Canal 26",
     "url": "https://youtube.com",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png"
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png"
   },
   {
-    "title": "Google",
+    "title": "A24",
     "url": "https://google.com",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png"
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png"
   },
   {
-    "title": "YouTube",
+    "title": "TN",
     "url": "https://youtube.com",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png"
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png"
   }
 ]
