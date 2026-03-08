@@ -1,42 +1,42 @@
 [
   {
     "title": "Net TV",
-    "url": "https://google.com",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png"
   },
   {
     "title": "Telemax",
-    "url": "https://youtube.com",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png"
   },
   {
     "title": "C5N",
-    "url": "https://google.com",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png"
   },
   {
     "title": "TV Pública",
-    "url": "https://youtube.com",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png"
   },
   {
     "title": "Crónica TV",
-    "url": "https://google.com",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png"
   },
   {
     "title": "Canal 26",
-    "url": "https://youtube.com",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png"
   },
   {
     "title": "A24",
-    "url": "https://google.com",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png"
   },
   {
     "title": "TN",
-    "url": "https://youtube.com",
+    "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png"
   }
 ]
