@@ -38,5 +38,10 @@
     "title": "TN",
     "url": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png"
-  }
+  },
+    {
+    "title": "La Nación +",
+    "url": "http://181.209.37.74:8001/play/a05y/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png"
+  },
 ]
