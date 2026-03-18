@@ -76,7 +76,7 @@
     "url": "http://181.209.37.74:8001/play/a08a/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
     "epg": "NETTV.ar",
-    "group": "Nacionales",
+    "group": "Música",
     "number": "10"
   },
     {
@@ -84,7 +84,7 @@
     "url": "http://181.209.37.74:8001/play/a07b/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png",
     "epg": "NETTV.ar",
-    "group": "Nacionales",
+    "group": "Infantiles",
     "number": "11"
   },
   {
@@ -92,7 +92,7 @@
     "url": "http://181.209.37.74:8001/play/a08k/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png",
     "epg": "NETTV.ar",
-    "group": "Nacionales",
+    "group": "Entretenimiento",
     "number": "12"
   },
   {
@@ -100,7 +100,7 @@
     "url": "http://181.209.37.74:8001/play/a094/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png",
     "epg": "NETTV.ar",
-    "group": "Nacionales",
+    "group": "Deportes",
     "number": "13"
   },
   {
