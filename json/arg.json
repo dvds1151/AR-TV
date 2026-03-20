@@ -13,17 +13,17 @@
     "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
   },
   {
-    "title": "Telemax HD e",
-    "url": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_ClearKey.mpd",
+    "title": "Telemax",
+    "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
     "epg": "NETTV.ar",
     "group": "Nacionales",
     "number": "2",
-    "drmType": "clearkey",
+    "drmType": "",
     "drmLicense": null,
     "drmHeaders": null,
-    "drmKeyId": "1ae8ccd0e79848b4b50c3fce9c5d8f42",
-    "drmKey": "3b9b8f6d4e3c2a1b0f9e8d7c6b5a4f3e"
+    "drmKeyId": "",
+    "drmKey": ""
   },
   {
     "title": "TV Pública hd",
