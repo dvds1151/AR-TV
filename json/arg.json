@@ -26,8 +26,8 @@
     "drmKey": "3b9b8f6d4e3c2a1b0f9e8d7c6b5a4f3e"
   },
   {
-    "title": "TV Pública",
-    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+    "title": "TV Pública hd",
+    "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
     "epg": "TVPublica.ar",
     "group": "Nacionales",
