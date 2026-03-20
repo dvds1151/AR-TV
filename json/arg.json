@@ -26,6 +26,19 @@
     "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
   },
   {
+    "title": "TV Pública",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
+    "epg": "TVPublica.ar",
+    "group": "Nacionales",
+    "number": "3",
+    "drmType": "clearkey",
+    "drmLicense": null,
+    "drmHeaders": null,
+    "drmKeyId": "cc8c82ac2ec7e9799527c29db7354e81",
+    "drmKey": "cc4aae173dd2ef17ae26be3f7ae87662"
+  },
+  {
     "title": "Telefe HD",
     "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
