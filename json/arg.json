@@ -6,20 +6,24 @@
     "epg": "NETTV.ar",
     "group": "Nacionales",
     "number": "1",
-    "drmLicense":"",
-    "drmType":"",
-    "drmHeaders":""
+    "drmType": "clearkey",
+    "drmLicense": null,
+    "drmHeaders": null,
+    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
+    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
   },
   {
-    "title": "Telemax",
+    "title": "Telemax HD",
     "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
     "epg": "NETTV.ar",
     "group": "Nacionales",
     "number": "2",
-    "drmLicense":"",
-    "drmType":"",
-    "drmHeaders":""
+    "drmType": "clearkey",
+    "drmLicense": null,
+    "drmHeaders": null,
+    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
+    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
   },
   {
     "title": "Telefe HD",
@@ -28,9 +32,11 @@
     "epg": "NETTV.ar",
     "group": "Música",
     "number": "10",
-    "drmLicense":"3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323",
-    "drmType":"clearkey",
-    "drmHeaders":""
+    "drmType": "clearkey",
+    "drmLicense": null,
+    "drmHeaders": null,
+    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
+    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
   },
   {
     "title": "Canal 12 Misiones",
@@ -39,8 +45,10 @@
     "epg": "NETTV.ar",
     "group": "Provinciales",
     "number": "14",
-    "drmLicense":"",
-    "drmType":"",
-    "drmHeaders":""
+    "drmType": "clearkey",
+    "drmLicense": null,
+    "drmHeaders": null,
+    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
+    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
   }
 ]
