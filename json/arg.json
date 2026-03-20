@@ -13,8 +13,8 @@
     "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
   },
   {
-    "title": "Telemax HD esp",
-    "url": "https://cdn.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_C/ESPN2HD.mpd",
+    "title": "Telemax HD e",
+    "url": "https://media.axprod.net/TestVectors/v7-MultiDRM-SingleKey/Manifest_ClearKey.mpd",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
     "epg": "NETTV.ar",
     "group": "Nacionales",
@@ -22,8 +22,8 @@
     "drmType": "clearkey",
     "drmLicense": null,
     "drmHeaders": null,
-    "drmKeyId": "e884b711ab111beb8a7ba1e7bcbdc9bf",
-    "drmKey": "cb89ee3961599e3e648a5aad60895f34"
+    "drmKeyId": "1ae8ccd0e79848b4b50c3fce9c5d8f42",
+    "drmKey": "3b9b8f6d4e3c2a1b0f9e8d7c6b5a4f3e"
   },
   {
     "title": "TV Pública",
