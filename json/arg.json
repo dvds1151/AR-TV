@@ -65,11 +65,12 @@
   },
   {
     "title": "La Nación+",
-    "url": "http://181.209.37.74:8001/play/a05y/index.m3u8",
+    "url": "https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png",
     "epg": "NETTV.ar",
     "group": "Nacionales",
-    "number": "9"
+    "number": "9",
+    "drmLicense":"a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809"
   },
   {
     "title": "Telefe",
