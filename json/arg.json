@@ -73,12 +73,13 @@
     "drmLicense":"a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809"
   },
   {
-    "title": "Telefe",
-    "url": "http://181.209.37.74:8001/play/a08a/index.m3u8",
+    "title": "Telefe HD",
+    "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
     "epg": "NETTV.ar",
     "group": "Música",
-    "number": "10"
+    "number": "10",
+    "drmLicense":"3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323"
   },
     {
     "title": "El Trece",
