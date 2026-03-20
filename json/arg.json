@@ -5,7 +5,10 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png",
     "epg": "NETTV.ar",
     "group": "Nacionales",
-    "number": "1"
+    "number": "1",
+    "drmLicense":"",
+    "drmType":"",
+    "drmHeaders":""
   },
   {
     "title": "Telemax",
@@ -13,64 +16,10 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
     "epg": "NETTV.ar",
     "group": "Nacionales",
-    "number": "2"
-  },
-  {
-    "title": "C5N",
-    "url": "http://181.209.37.74:8001/play/a05v/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "3"
-  },
-  {
-    "title": "TV Pública",
-    "url": "http://181.209.37.74:8001/play/a095/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "4"
-  },
-  {
-    "title": "Crónica TV",
-    "url": "http://181.209.37.74:8001/play/a05w/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "5"
-  },
-  {
-    "title": "Canal 26",
-    "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "6"
-  },
-  {
-    "title": "A24",
-    "url": "http://190.7.19.197:232/play/a03z/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "7"
-  },
-  {
-    "title": "TN",
-    "url": "http://181.209.37.74:8001/play/a097/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "8"
-  },
-  {
-    "title": "La Nación+",
-    "url": "https://cdn.sensa.com.ar/live/eds/LaNacionMas/live_dash_cld/LaNacionMas.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png",
-    "epg": "NETTV.ar",
-    "group": "Nacionales",
-    "number": "9",
-    "drmLicense":"a002010b506854599dffbb8b9048ec7c:160eedf85229da919a7c5eec4fbef809"
+    "number": "2",
+    "drmLicense":"",
+    "drmType":"",
+    "drmHeaders":""
   },
   {
     "title": "Telefe HD",
@@ -83,36 +32,15 @@
     "drmType":"clearkey",
     "drmHeaders":""
   },
-    {
-    "title": "El Trece",
-    "url": "http://181.209.37.74:8001/play/a07b/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png",
-    "epg": "NETTV.ar",
-    "group": "Infantiles",
-    "number": "11"
-  },
-  {
-    "title": "El Nueve",
-    "url": "http://181.209.37.74:8001/play/a08k/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png",
-    "epg": "NETTV.ar",
-    "group": "Entretenimiento",
-    "number": "12"
-  },
-  {
-    "title": "América TV",
-    "url": "http://181.209.37.74:8001/play/a094/index.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png",
-    "epg": "NETTV.ar",
-    "group": "Deportes",
-    "number": "13"
-  },
   {
     "title": "Canal 12 Misiones",
     "url": "https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
     "epg": "NETTV.ar",
     "group": "Provinciales",
-    "number": "14"
+    "number": "14",
+    "drmLicense":"",
+    "drmType":"",
+    "drmHeaders":""
   }
 ]
