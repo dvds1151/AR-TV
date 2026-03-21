@@ -16,16 +16,16 @@
     "number": "2"
   },
   {
-    "title": "TV Pública hd",
-    "url": "https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc_C/Canal7.mpd",
+    "title": "TV Pública",
+    "url": "http://181.209.37.74:8001/play/a095/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
     "epg": "TVPublica.ar",
     "group": "Nacionales",
     "number": "3"
   },
   {
-    "title": "Telefe HD",
-    "url": "https://cdn.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc_C/TelefeHD.mpd",
+    "title": "Telefe",
+    "url": "http://181.209.37.74:8001/play/a08a/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
     "epg": "NETTV.ar",
     "group": "Música",
