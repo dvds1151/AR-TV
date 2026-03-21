@@ -5,12 +5,7 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Net.png",
     "epg": "NETTV.ar",
     "group": "Nacionales",
-    "number": "1",
-    "drmType": "clearkey",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
-    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
+    "number": "1"
   },
   {
     "title": "Telemax",
@@ -18,12 +13,7 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
     "epg": "NETTV.ar",
     "group": "Nacionales",
-    "number": "2",
-    "drmType": "",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "",
-    "drmKey": ""
+    "number": "2"
   },
   {
     "title": "TV Pública hd",
@@ -31,12 +21,7 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
     "epg": "TVPublica.ar",
     "group": "Nacionales",
-    "number": "3",
-    "drmType": "clearkey",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "cc8c82ac2ec7e9799527c29db7354e81",
-    "drmKey": "cc4aae173dd2ef17ae26be3f7ae87662"
+    "number": "3"
   },
   {
     "title": "Telefe HD",
@@ -44,12 +29,7 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
     "epg": "NETTV.ar",
     "group": "Música",
-    "number": "10",
-    "drmType": "clearkey",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
-    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
+    "number": "10"
   },
   {
     "title": "Canal 12 Misiones",
@@ -57,11 +37,6 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
     "epg": "NETTV.ar",
     "group": "Provinciales",
-    "number": "14",
-    "drmType": "clearkey",
-    "drmLicense": null,
-    "drmHeaders": null,
-    "drmKeyId": "3cec1b1ea9799dda5596e64f37e5ed20",
-    "drmKey": "c69f3afde2085dcaaaddbf55246a0323"
+    "number": "14"
   }
 ]
