@@ -11,7 +11,7 @@
     "title": "Telemax",
     "url": "https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
-    "epg": "NETTV.ar",
+    "epg": "Telemax.ar",
     "group": "Nacionales",
     "number": "2"
   },
@@ -27,7 +27,7 @@
     "title": "Telefe",
     "url": "http://181.209.37.74:8001/play/a08a/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
-    "epg": "NETTV.ar",
+    "epg": "Telefe.ar",
     "group": "Música",
     "number": "10"
   },
@@ -35,7 +35,7 @@
     "title": "Canal 12 Misiones",
     "url": "https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
-    "epg": "NETTV.ar",
+    "epg": "",
     "group": "Provinciales",
     "number": "14"
   }
