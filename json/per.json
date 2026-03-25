@@ -1,14 +1,12 @@
 {
   "users": [
     {
-      "email": "dds.counterstrike@gmail.com",
-      "avatar": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/user_default.png",
-      "enabled": true
-    },
-    {
-      "email": "otro@gmail.com",
-      "avatar": "",
-      "enabled": false
+      "email": "admin",
+      "enabled": true,
+      "devices": [
+        "653fdd6a-47f1-4862-b939-d6bb91672998",
+        ""
+      ]
     }
   ]
 }
