@@ -1,7 +1,14 @@
 {
   "users": [
-    "hodase.oficial@gmail.com",
-    "daianamouls@gmail.com",
-    "dds2.counterstrike@gmail.com"
+    {
+      "email": "dds.counterstrike@gmail.com",
+      "avatar": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/user_default.png",
+      "enabled": true
+    },
+    {
+      "email": "otro@gmail.com",
+      "avatar": "",
+      "enabled": false
+    }
   ]
 }
