@@ -8,6 +8,15 @@
         "653fdd6a-47f1-4862-b939-d6bb91672998",
         "faa9ff7a-ca3a-45cd-a736-1336384263e1"
       ]
+    },
+    {
+      "email": "dds.counterstrike@gmail.com",
+      "avatar": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/user_default.png",
+      "enabled": true,
+      "devices": [
+        "653fdd6a-47f1-4862-b939-d6bb91672998",
+        "a"
+      ]
     }
   ]
 }
