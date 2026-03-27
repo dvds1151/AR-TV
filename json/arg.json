@@ -38,5 +38,13 @@
     "epg": "",
     "group": "Provinciales",
     "number": "14"
+  },
+    {
+    "title": "Canal 12 Misiones Flaso",
+    "url": "https://asdasd",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
+    "epg": "",
+    "group": "Provinciales",
+    "number": "15"
   }
 ]
