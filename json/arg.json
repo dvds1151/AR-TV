@@ -16,20 +16,92 @@
     "number": "2"
   },
   {
+    "title": "C5N",
+    "url": "http://181.209.37.74:8001/play/a05v/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png",
+    "epg": "C5N.ar",
+    "group": "Nacionales",
+    "number": "3"
+  },
+  {
     "title": "TV Pública",
     "url": "http://181.209.37.74:8001/play/a095/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
     "epg": "TVPublica.ar",
     "group": "Nacionales",
-    "number": "3"
+    "number": "4"
+  },
+  {
+    "title": "Crónica TV",
+    "url": "http://181.209.37.74:8001/play/a05w/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png",
+    "epg": "CronicaTV.ar",
+    "group": "Nacionales",
+    "number": "5"
+  },
+  {
+    "title": "Canal 26",
+    "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png",
+    "epg": "Canal26.ar",
+    "group": "Nacionales",
+    "number": "6"
+  },
+  {
+    "title": "A24",
+    "url": "http://190.7.19.197:232/play/a03z/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png",
+    "epg": "A24.ar",
+    "group": "Nacionales",
+    "number": "7"
+  },
+  {
+    "title": "TN",
+    "url": "http://181.209.37.74:8001/play/a097/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png",
+    "epg": "TN.ar",
+    "group": "Nacionales",
+    "number": "8"
+  },
+  {
+    "title": "La Nación+",
+    "url": "http://181.209.37.74:8001/play/a05y/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png",
+    "epg": "LaNacionPlus.ar",
+    "group": "Nacionales",
+    "number": "9"
   },
   {
     "title": "Telefe",
     "url": "http://181.209.37.74:8001/play/a08a/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png",
     "epg": "Telefe.ar",
-    "group": "Música",
+    "group": "Nacionales",
     "number": "10"
+  },
+  {
+    "title": "El Trece",
+    "url": "http://181.209.37.74:8001/play/a07b/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png",
+    "epg": "ElTrece.ar",
+    "group": "Nacionales",
+    "number": "11"
+  },
+  {
+    "title": "El Nueve",
+    "url": "http://181.209.37.74:8001/play/a08k/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png",
+    "epg": "ElNueve.ar",
+    "group": "Nacionales",
+    "number": "12"
+  },
+  {
+    "title": "América TV",
+    "url": "http://181.209.37.74:8001/play/a094/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-America.png",
+    "epg": "AmericaTV.ar",
+    "group": "Nacionales",
+    "number": "13"
   },
   {
     "title": "Canal 12 Misiones",
