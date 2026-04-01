@@ -111,12 +111,52 @@
     "group": "Provinciales",
     "number": "14"
   },
-    {
-    "title": "Canal 12 Misiones Flaso",
-    "url": "https://asdasd",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
-    "epg": "",
-    "group": "Provinciales",
+  {
+    "title": "Canal Luz",
+    "url": "https://g2.vxral-slo.transport.edge-access.net/a11/ngrp:canal_luz01-100009_all/Playlist.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/10-CanalLuz.png",
+    "epg": "CanalLuz.ar",
+    "group": "Cristianos",
     "number": "15"
+  },
+  {
+    "title": "DW Español",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream01/streamPlaylist.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-DW.png",
+    "epg": "Deutsche.Welle.TV.Español.(DW-ES).ar",
+    "group": "Internacionales",
+    "number": "16"
+  },
+  {
+    "title": "CNN en Español",
+    "url": "http://181.209.37.74:8001/play/a093/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png",
+    "epg": "CNNenEspanol.us",
+    "group": "Internacionales",
+    "number": "17"
+  },
+  {
+    "title": "Telemundo Internacional",
+    "url": "http://190.238.43.117:8000/play/a09a/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telemundo.png",
+    "epg": "TelemundoInternacional.us@CentralAmerica",
+    "group": "Internacionales",
+    "number": "18"
+  },
+  {
+    "title": "Telesur",
+    "url": "http://181.119.111.25:4000/play/a0hx/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png",
+    "epg": "Telesur.ve",
+    "group": "Internacionales",
+    "number": "19"
+  },
+  {
+    "title": "TV Globo",
+    "url": "http://190.7.19.197:232/play/a00w/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-TVGlobo.png",
+    "epg": "TVGloboInternacionalAmericas.br",
+    "group": "Internacionales",
+    "number": "19"
   }
 ]
