@@ -145,7 +145,7 @@
   },
   {
     "title": "Telesur",
-    "url": "http://181.119.111.25:4000/play/a0hx/index.m3u8",
+    "url": "http://181.119.11.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png",
     "epg": "Telesur.ve",
     "group": "Internacionales",
