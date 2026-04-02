@@ -158,5 +158,253 @@
     "epg": "TVGloboInternacionalAmericas.br",
     "group": "Internacionales",
     "number": "19"
+  },
+  {
+    "title": "Encuentro",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/9bh05-pfjmo-a54l8-a4hgk.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png",
+    "epg": "Encuentro.ar",
+    "group": "Culturales",
+    "number": "20"
+  },
+  {
+    "title": "NatGeo",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/o6mj8-i7n93-67ej8-712ao.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png",
+    "epg": "NationalGeographicLatinAmerica.us@South",
+    "group": "Culturales",
+    "number": "21"
+  },
+  {
+    "title": "Discovery Channel",
+    "url": "http://181.209.37.74:8001/play/a08g/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png",
+    "epg": "DiscoveryChannelLatinAmerica.us@South",
+    "group": "Culturales",
+    "number": "22"
+  },
+  {
+    "title": "Discovery TLC",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/feo4p-6m8di-39pf4-j1h25.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTLC.png",
+    "epg": "TLCLatinAmerica.us@South",
+    "group": "Culturales",
+    "number": "23"
+  },
+  {
+    "title": "Discovery Turbo",
+    "url": "http://186.125.218.189:13000/play/a04q/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png",
+    "epg": "DiscoveryTurboLatinAmerica.us@Panregional",
+    "group": "Culturales",
+    "number": "24"
+  },
+  {
+    "title": "Discovery H&H",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png",
+    "epg": "DiscoveryHomeHealthLatinAmerica.mx@South",
+    "group": "Culturales",
+    "number": "25"
+  },
+  {
+    "title": "History",
+    "url": "http://181.209.37.74:8001/play/a090/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png",
+    "epg": "HistoryLatinAmerica.us@South",
+    "group": "Culturales",
+    "number": "26"
+  },
+  {
+    "title": "History 2",
+    "url": "http://181.78.7.90:12500/play/a0fi/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png",
+    "epg": "History2LatinAmerica.us@Panregional",
+    "group": "Culturales",
+    "number": "27"
+  },
+  {
+    "title": "Animal Planet",
+    "url": "http://190.7.19.197:232/play/a081/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AnimalPlanet.png",
+    "epg": "AnimalPlanetLatinAmerica.us",
+    "group": "Culturales",
+    "number": "28"
+  },
+  {
+    "title": "Investigation Discovery (ID)",
+    "url": "http://190.7.19.197:232/play/a083/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-ID.png",
+    "epg": "InvestigationDiscoveryLatinAmerica.us@South",
+    "group": "Culturales",
+    "number": "29"
+  },
+  {
+    "title": "A&E",
+    "url": "http://181.209.37.74:8001/play/a09h/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png",
+    "epg": "AELatinAmerica.us@South",
+    "group": "Culturales",
+    "number": "30"
+  },
+  {
+    "title": "Lifetime",
+    "url": "http://181.78.7.90:12500/play/a0nx/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png",
+    "epg": "LifetimeLatinAmerica.us@Panregional",
+    "group": "Culturales",
+    "number": "31"
+  },
+  {
+    "title": "DEPORTV",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/e1okh-afcc2-ejm6-h8gdj.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png",
+    "epg": "DeporTV.ar",
+    "group": "Deportes",
+    "number": "32"
+  },
+  {
+    "title": "TyC Sports",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/o5b6i-gacle-23i3p-oef1.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TyC.png",
+    "epg": "TyCSports.ar",
+    "group": "Deportes",
+    "number": "33"
+  },
+  {
+    "title": "ESPN",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/k6e4b-2jhe5-76pae-1fham.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn.png",
+    "epg": "ar#espn-2",
+    "group": "Deportes",
+    "number": "34"
+  },
+  {
+    "title": "ESPN 2",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/io3a7-ob45b-2dnm5-ac8ak.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn2.png",
+    "epg": "ar#espn",
+    "group": "Deportes",
+    "number": "35"
+  },
+  {
+    "title": "ESPN 3",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/io0j9-gb1bf-d0738-kkn17.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png",
+    "epg": "ar#espn-3",
+    "group": "Deportes",
+    "number": "36"
+  },
+  {
+    "title": "FOX Sports",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/e6m9n-cgl9e-o10kk-2o1bd.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png",
+    "epg": "FoxSports.ar",
+    "group": "Deportes",
+    "number": "37"
+  },
+  {
+    "title": "FOX Sports 2",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/km6lk-2io4c-7f9jm-peep.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png",
+    "epg": "FoxSports2.ar",
+    "group": "Deportes",
+    "number": "38"
+  },
+  {
+    "title": "FOX Sports 3",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/nhpm-b5ank-dc0f8-23dl8.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png",
+    "epg": "FoxSports3LatinAmerica.us@Panregional",
+    "group": "Deportes",
+    "number": "39"
+  },
+  {
+    "title": "ESPN Premium",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png",
+    "epg": "ESPNPremium.ar",
+    "group": "Deportes",
+    "number": "40"
+  },
+  {
+    "title": "TNT Sports",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png",
+    "epg": "TNTSports.ar",
+    "group": "Deportes",
+    "number": "41"
+  },
+  {
+    "title": "Cartoon Network",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/f33ci-2pl6j-7pki5-goboo.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png",
+    "epg": "CartoonNetworkLatinAmerica.us@SouthAtlantic",
+    "group": "Infantiles",
+    "number": "42"
+  },
+  {
+    "title": "Nickelodeon",
+    "url": "http://181.209.37.74:8001/play/a08y/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png",
+    "epg": "ar#nickelodeon-hd",
+    "group": "Infantiles",
+    "number": "43"
+  },
+  {
+    "title": "Disney Channel",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/g0hl8-7cc8c-58lnc-8d80n.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png",
+    "epg": "DisneyChannelLatinAmerica.ar@South",
+    "group": "Infantiles",
+    "number": "44"
+  },
+  {
+    "title": "Discovery Kids",
+    "url": "http://181.209.37.74:8001/play/a07r/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png",
+    "epg": "DiscoveryKidsLatinAmerica.us@Panregional",
+    "group": "Infantiles",
+    "number": "45"
+  },
+  {
+    "title": "Nick Junior",
+    "url": "http://181.209.37.74:8001/play/a07s/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png",
+    "epg": "NickJrLatinAmerica.us@South",
+    "group": "Infantiles",
+    "number": "46"
+  },
+  {
+    "title": "Disney Junior",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/5kd3c-o845m-1fce7-n8520.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png",
+    "epg": "ar#disney-jr",
+    "group": "Infantiles",
+    "number": "47"
+  },
+  {
+    "title": "Cartoonito",
+    "url": "http://190.238.43.117:8000/play/a09t/index.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Cartoonito.png",
+    "epg": "ar#boomerang-cartoon",
+    "group": "Infantiles",
+    "number": "48"
+  },
+  {
+    "title": "Star Channel",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/4o7n1-6ig88-demj0-46pkf.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StarChannel.png",
+    "epg": "ar#fox-hd",
+    "group": "Cine & Series",
+    "number": "49"
+  },
+  {
+    "title": "FX",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png",
+    "epg": "FXLatinAmerica.us@South",
+    "group": "Cine & Series",
+    "number": "50"
   }
 ]
