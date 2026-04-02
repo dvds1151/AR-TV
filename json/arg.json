@@ -56,8 +56,8 @@
     "number": "7"
   },
   {
-    "title": "TN",
-    "url": "http://181.209.37.74:8001/play/a097/index.m3u8",
+    "title": "TN HD",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/719b8-4446k-bgh4e-5pp8f.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png",
     "epg": "TN.ar",
     "group": "Nacionales",
