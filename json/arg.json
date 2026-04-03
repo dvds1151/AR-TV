@@ -406,5 +406,245 @@
     "epg": "FXLatinAmerica.us@South",
     "group": "Cine & Series",
     "number": "50"
+  },
+  {
+    "title": "Cinemax",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png",
+    "epg": "ar#cinemax-sur",
+    "group": "Cine & Series",
+    "number": "51"
+  },
+  {
+    "title": "Space",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png",
+    "epg": "Space.ar@Panregional",
+    "group": "Cine & Series",
+    "number": "52"
+  },
+  {
+    "title": "Cinecanal",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png",
+    "epg": "Cinecanal.us@Panregional",
+    "group": "Cine & Series",
+    "number": "53"
+  },
+  {
+    "title": "AXN",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png",
+    "epg": "ar#axn",
+    "group": "Cine & Series",
+    "number": "54"
+  },
+  {
+    "title": "Warner Channel",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png",
+    "epg": "WarnerChannel.us@South",
+    "group": "Cine & Series",
+    "number": "55"
+  },
+  {
+    "title": "Sony Channel",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png",
+    "epg": "FXLatinAmerica.us@South",
+    "group": "Cine & Series",
+    "number": "56"
+  },
+  {
+    "title": "Universal TV",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png",
+    "epg": "UniversalTVLatinAmerica.us@South",
+    "group": "Cine & Series",
+    "number": "57"
+  },
+  {
+    "title": "Studio Universal",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StudioUniversal.png",
+    "epg": "StudioUniversalLatinAmerica.us@South",
+    "group": "Cine & Series",
+    "number": "58"
+  },
+  {
+    "title": "AMC",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AMC.png",
+    "epg": "AMCLatinAmerica.us",
+    "group": "Cine & Series",
+    "number": "59"
+  },
+  {
+    "title": "TNT",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png",
+    "epg": "TNTLatinAmerica.us@South",
+    "group": "Cine & Series",
+    "number": "60"
+  },
+  {
+    "title": "HBO",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png",
+    "epg": "ar#hbo",
+    "group": "Cine & Series",
+    "number": "61"
+  },
+  {
+    "title": "HBO 2",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png",
+    "epg": "ar#hbo-2-hd",
+    "group": "Cine & Series",
+    "number": "62"
+  },
+  {
+    "title": "HBO Plus",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png",
+    "epg": "ar#hbo-plus-este",
+    "group": "Cine & Series",
+    "number": "63"
+  },
+  {
+    "title": "HBO Family",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png",
+    "epg": "ar#hbo-family-hd",
+    "group": "Cine & Series",
+    "number": "64"
+  },
+  {
+    "title": "HBO Pop",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png",
+    "epg": "HBOPopLatinAmerica.us",
+    "group": "Cine & Series",
+    "number": "65"
+  },
+  {
+    "title": "HBO Xtreme",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png",
+    "epg": "HBOXtremeLatinAmerica.us",
+    "group": "Cine & Series",
+    "number": "66"
+  },
+  {
+    "title": "Cine.ar",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-CineAr.png",
+    "epg": "CineAr.ar",
+    "group": "Cine & Series",
+    "number": "67"
+  },
+  {
+    "title": "TCM",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png",
+    "epg": "TCMLatinAmerica.us@South",
+    "group": "Cine & Series",
+    "number": "68"
+  },
+  {
+    "title": "Volver",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Volver.png",
+    "epg": "Volver.ar",
+    "group": "Cine & Series",
+    "number": "69"
+  },
+  {
+    "title": "TNT Series",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png",
+    "epg": "TNTSeriesLatinAmerica.us@South",
+    "group": "Cine & Series",
+    "number": "70"
+  },
+  {
+    "title": "TNT Novelas",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png",
+    "epg": "TBSSouth.us",
+    "group": "Novelas",
+    "number": "71"
+  },
+  {
+    "title": "Pasiones",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png",
+    "epg": "PasionesLatinAmerica.us",
+    "group": "Novelas",
+    "number": "72"
+  },
+  {
+    "title": "Food Network",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png",
+    "epg": "FoodNetworkLatinAmerica.us@Panregional",
+    "group": "Cocina",
+    "number": "73"
+  },
+  {
+    "title": "El Gourmet",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png",
+    "epg": "ElGourmet.ar@South",
+    "group": "Cocina",
+    "number": "74"
+  },
+  {
+    "title": "Hola TV",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png",
+    "epg": "HolaTVLatinAmerica.us",
+    "group": "Espectaculo",
+    "number": "75"
+  },
+  {
+    "title": "E! Entertainment",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-E.png",
+    "epg": "ELatinAmerica.us@Andes",
+    "group": "Espectaculo",
+    "number": "76"
+  },
+  {
+    "title": "Ciudad Magazine",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-CiudadMagazine.png",
+    "epg": "CiudadMagazine.ar",
+    "group": "Espectaculo",
+    "number": "77"
+  },
+  {
+    "title": "MTV",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png",
+    "epg": "MTVLatinAmerica.us@Panregional",
+    "group": "Música",
+    "number": "78"
+  },
+  {
+    "title": "HTV",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png",
+    "epg": "HTV.us",
+    "group": "Música",
+    "number": "79"
+  },
+  {
+    "title": "Music Top",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MusicTop.png",
+    "epg": "MusicTop.ar",
+    "group": "Música",
+    "number": "80"
   }
 ]
