@@ -7,21 +7,21 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Telemax.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png" group-title="Nacionales", Telemax
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="C5N.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-C5N.png" group-title="Nacionales", C5N
-http://181.209.37.74:8001/play/a05v/index.m3u8
+http://45.238.54.67:8000/play/a03h/index.m3u8
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png" group-title="Nacionales", TV Pública
-http://181.209.37.74:8001/play/a095/index.m3u8
+http://45.238.54.67:8000/play/a04z/index.m3u8
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Cronica.png" group-title="Nacionales", Crónica HD
-http://181.209.37.74:8001/play/a05w/index.m3u8
+http://45.238.54.67:8000/play/a03i/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal26.png" group-title="Nacionales", Canal 26
 https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-A24.png" group-title="Nacionales" user-agent="iPhone", A24
-http://190.7.19.197:232/play/a03z/index.m3u8
+http://45.238.54.67:8000/play/a03g/index.m3u8
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TN.png" group-title="Nacionales", TN
-http://181.209.37.74:8001/play/a097/index.m3u8
+http://45.238.54.67:8000/play/a050/index.m3u8
 #EXTINF:-1 tvg-id="LaNacionPlus.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-LN.png" group-title="Nacionales", La Nación +
-http://181.209.37.74:8001/play/a05y/index.m3u8
+http://45.238.54.67:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="Telefe.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telefe.png" group-title="Nacionales", Telefé
-http://181.209.37.74:8001/play/a08a/index.m3u8
+http://45.238.54.67:8000/play/b02e/index.m3u8
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Trece.png" group-title="Nacionales", El Trece
 http://181.209.37.74:8001/play/a07b/index.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Nueve.png" group-title="Nacionales", El Nueve
