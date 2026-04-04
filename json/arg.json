@@ -488,84 +488,12 @@
     "number": "60"
   },
   {
-    "title": "HBO",
-    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png",
-    "epg": "ar#hbo",
-    "group": "Cine & Series",
-    "number": "61"
-  },
-  {
-    "title": "HBO 2",
-    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png",
-    "epg": "ar#hbo-2-hd",
-    "group": "Cine & Series",
-    "number": "62"
-  },
-  {
-    "title": "HBO Plus",
-    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png",
-    "epg": "ar#hbo-plus-este",
-    "group": "Cine & Series",
-    "number": "63"
-  },
-  {
-    "title": "HBO Family",
-    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png",
-    "epg": "ar#hbo-family-hd",
-    "group": "Cine & Series",
-    "number": "64"
-  },
-  {
-    "title": "HBO Pop",
-    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png",
-    "epg": "HBOPopLatinAmerica.us",
-    "group": "Cine & Series",
-    "number": "65"
-  },
-  {
-    "title": "HBO Xtreme",
-    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png",
-    "epg": "HBOXtremeLatinAmerica.us",
-    "group": "Cine & Series",
-    "number": "66"
-  },
-  {
-    "title": "Cine.ar",
-    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-CineAr.png",
-    "epg": "CineAr.ar",
-    "group": "Cine & Series",
-    "number": "67"
-  },
-  {
-    "title": "TCM",
-    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png",
-    "epg": "TCMLatinAmerica.us@South",
-    "group": "Cine & Series",
-    "number": "68"
-  },
-  {
-    "title": "Volver",
-    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
-    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Volver.png",
-    "epg": "Volver.ar",
-    "group": "Cine & Series",
-    "number": "69"
-  },
-  {
     "title": "TNT Series",
     "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png",
     "epg": "TNTSeriesLatinAmerica.us@South",
     "group": "Cine & Series",
-    "number": "70"
+    "number": "61"
   },
   {
     "title": "TNT Novelas",
@@ -573,6 +501,78 @@
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png",
     "epg": "TBSSouth.us",
     "group": "Novelas",
+    "number": "62"
+  },
+  {
+    "title": "HBO",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png",
+    "epg": "ar#hbo",
+    "group": "Cine & Series",
+    "number": "63"
+  },
+  {
+    "title": "HBO 2",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO2.png",
+    "epg": "ar#hbo-2-hd",
+    "group": "Cine & Series",
+    "number": "64"
+  },
+  {
+    "title": "HBO Plus",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png",
+    "epg": "ar#hbo-plus-este",
+    "group": "Cine & Series",
+    "number": "65"
+  },
+  {
+    "title": "HBO Family",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png",
+    "epg": "ar#hbo-family-hd",
+    "group": "Cine & Series",
+    "number": "66"
+  },
+  {
+    "title": "HBO Pop",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png",
+    "epg": "HBOPopLatinAmerica.us",
+    "group": "Cine & Series",
+    "number": "67"
+  },
+  {
+    "title": "HBO Xtreme",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png",
+    "epg": "HBOXtremeLatinAmerica.us",
+    "group": "Cine & Series",
+    "number": "68"
+  },
+  {
+    "title": "Cine.ar",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-CineAr.png",
+    "epg": "CineAr.ar",
+    "group": "Cine & Series",
+    "number": "69"
+  },
+  {
+    "title": "TCM",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TCM.png",
+    "epg": "TCMLatinAmerica.us@South",
+    "group": "Cine & Series",
+    "number": "70"
+  },
+  {
+    "title": "Volver",
+    "url": "https://joy.nx-pc.edge-apps.net/hls/fag8a-om4eh-afl1m-78310.m3u8",
+    "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Volver.png",
+    "epg": "Volver.ar",
+    "group": "Cine & Series",
     "number": "71"
   },
   {
