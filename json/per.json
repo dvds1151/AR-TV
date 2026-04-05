@@ -35,6 +35,15 @@
         "5741ecdb-1c84-4fa6-958b-1095f358234a",
         ""
       ]
+    },
+    {
+      "email": "newemail@gmail.com",
+      "avatar": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/user_default.png",
+      "enabled": false,
+      "devices": [
+        "",
+        ""
+      ]
     }
   ]
 }
