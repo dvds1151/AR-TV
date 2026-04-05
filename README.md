@@ -1,13 +1,10 @@
-## ArTV - TV Argentina 2026
+## ARTV - TV Argentina
 
-![ARTV LOGO 2](https://github.com/dvds1151/AR-TV/assets/142638998/1337096b-8be7-425c-b736-266bcecb640d)
+<img width="1024" height="500" alt="Icono Main 2_banner" src="https://github.com/user-attachments/assets/b3e88b4e-78ce-4cb4-8315-924b4ed54855" />
 
 ## Aclaración
-El uso es solamente personal. No se vende ni se distribuye.
+Todo el contenido es recopilado de la web, no se es propietario ni se aloja contenido propio.
 
-```
-https://raw.githubusercontent.com/dvds1151/AR-TV/main/arg.m3u
-```
 EPG:
 ```
 https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml
