@@ -2,7 +2,7 @@
   "enabled": true,
   "title": "Copa Libertadores - Final",
   "banner_main": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
-  "banner_background": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
+  "banner_background": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
   "description": "Texto descriptivo del evento y xxxxxxxxxxxxxxxxxxxx",
   "streams": [
     {
