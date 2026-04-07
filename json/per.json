@@ -37,6 +37,15 @@
       ]
     },
     {
+      "email": "daianamouls@gmail.com",
+      "avatar": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/user_default_2.png",
+      "enabled": true,
+      "devices": [
+        "",
+        ""
+      ]
+    },
+    {
       "email": "newemail@gmail.com",
       "avatar": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/user_default.png",
       "enabled": false,
