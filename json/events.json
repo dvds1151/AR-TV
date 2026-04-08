@@ -1,9 +1,9 @@
 {
   "enabled": true,
-  "title": "Copa Libertadores - Final",
-  "banner_main": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Telemax.png",
-  "banner_background": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-TVP.png",
-  "description": "Texto descriptivo del evento y xxxxxxxxxxxxxxxxxxxx",
+  "title": "Ver Mundial FIFA 2026",
+  "banner_main": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_mundial_ejemplo.png",
+  "banner_background": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_mundial_ejemplo.png",
+  "description": "Viví todos los partidos del Mundial FIFA 2026 USA, México & Canadá por acá.",
   "streams": [
     {
       "title": "Opción 1",
@@ -11,6 +11,10 @@
     },
     {
       "title": "Opción 2",
+      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+    },
+    {
+      "title": "Opción 3",
       "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
     }
   ]
