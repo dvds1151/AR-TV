@@ -145,7 +145,7 @@
   },
   {
     "title": "Telesur",
-    "url": "",
+    "url": "http://190.7.19.197:232/play/a08p/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-Telesur.png",
     "epg": "Telesur.ve",
     "group": "Internacionales",
@@ -217,7 +217,7 @@
   },
   {
     "title": "History 2",
-    "url": "",
+    "url": "http://45.238.54.67:8000/play/a03v/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png",
     "epg": "History2LatinAmerica.us@Panregional",
     "group": "Culturales",
@@ -233,7 +233,7 @@
   },
   {
     "title": "Investigation Discovery (ID)",
-    "url": "",
+    "url": "http://191.52.214.129:8000/play/a08t/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-ID.png",
     "epg": "InvestigationDiscoveryLatinAmerica.us@South",
     "group": "Culturales",
@@ -451,7 +451,7 @@
     "title": "Sony Channel",
     "url": "http://45.238.54.67:8000/play/a00q/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png",
-    "epg": "FXLatinAmerica.us@South",
+    "epg": "ar#sony-hd",
     "group": "Cine & Series",
     "number": "56"
   },
@@ -505,7 +505,7 @@
   },
   {
     "title": "HBO",
-    "url": "191.52.214.129:8000/play/a09k/index.m3u8",
+    "url": "http://191.52.214.129:8000/play/a09k/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png",
     "epg": "ar#hbo",
     "group": "Cine & Series",
@@ -529,7 +529,7 @@
   },
   {
     "title": "HBO Family",
-    "url": "http://45.225.68.1:8532/Live/664e122a96a9fd7e31cc1aad316b5d8e/local-ch22.playlist.m3u8",
+    "url": "http://191.52.214.129:8000/play/a08f/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png",
     "epg": "ar#hbo-family-hd",
     "group": "Cine & Series",
@@ -537,7 +537,7 @@
   },
   {
     "title": "HBO Pop",
-    "url": "http://38.7.223.20:8000/play/a096",
+    "url": "http://45.238.54.67:8000/play/a03n/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png",
     "epg": "HBOPopLatinAmerica.us",
     "group": "Cine & Series",
@@ -585,7 +585,7 @@
   },
   {
     "title": "Food Network",
-    "url": "",
+    "url": "http://217.26.190.76:8888/play/a0mb/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png",
     "epg": "FoodNetworkLatinAmerica.us@Panregional",
     "group": "Cocina",
