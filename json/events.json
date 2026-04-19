@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "title": "Ver el Superclásico de La Liga Argentina",
+  "title": "Superclásico de la Liga Argentina 2026",
   "banner_main": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_main.png",
   "banner_background": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_evento.png",
   "description": "Viví el superclásico River vs. Boca este domingo desde las 17:00 hs, por la fecha 15 del Torneo Apertura 2026",
@@ -11,6 +11,10 @@
     },
     {
       "title": "ESPN Premium HD - OP 2",
+      "url": "http://181.13.252.102:8000/play/a078/index.m3u8"
+    },
+    {
+      "title": "ESPN Premium HD - OP 3",
       "url": "https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8"
     },
     {
@@ -23,6 +27,10 @@
     },
     {
       "title": "TNT Sports HD - OP 3",
+      "url": "http://181.13.252.102:8000/play/a0bc/index.m3u8"
+    },
+    {
+      "title": "TNT Sports HD - OP 4",
       "url": "https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8"
     },
     {
