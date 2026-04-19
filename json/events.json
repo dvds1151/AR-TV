@@ -1,21 +1,33 @@
 {
-  "enabled": false,
-  "title": "Ver Mundial FIFA 2026",
-  "banner_main": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_mundial_ejemplo.png",
-  "banner_background": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_mundial_ejemplo.png",
-  "description": "Viví todos los partidos del Mundial FIFA 2026 USA, México & Canadá por acá.",
+  "enabled": true,
+  "title": "Ver el Superclásico de La Liga Argentina",
+  "banner_main": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_main.png",
+  "banner_background": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_evento.png",
+  "description": "Viví el superclásico River vs. Boca este domingo desde las 17:00 hs, por la fecha 15 del Torneo Apertura 2026",
   "streams": [
     {
-      "title": "Opción 1",
-      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+      "title": "ESPN Premium HD - OP 1",
+      "url": "http://190.7.19.197:232/play/a038/index.m3u8"
     },
     {
-      "title": "Opción 2",
-      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+      "title": "ESPN Premium HD - OP 2",
+      "url": "https://joy.nx-pc.edge-apps.net/hls/56cl9-6dffj-hb9op-hik52.m3u8"
     },
     {
-      "title": "Opción 3",
-      "url": "https://stream-gtlc.telecentro.net.ar/hls/canal26hls/0/playlist.m3u8"
+      "title": "TNT Sports HD - OP 1",
+      "url": "http://190.7.19.197:232/play/a037/index.m3u8"
+    },
+    {
+      "title": "TNT Sports HD - OP 2",
+      "url": "https://latam-cache-sv2-cdn.latamlive.net/TNTS_ENC_LIVE/index.mpd"
+    },
+    {
+      "title": "TNT Sports HD - OP 3",
+      "url": "https://joy.nx-pc.edge-apps.net/hls/hg35c-k15n6-nn351-lje0m.m3u8"
+    },
+    {
+      "title": "ESPN Chile SD - OP 1",
+      "url": "http://45.170.130.224:8000/play/a01y/index.m3u8"
     }
   ]
 }
