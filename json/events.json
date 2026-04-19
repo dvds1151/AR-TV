@@ -35,7 +35,11 @@
     },
     {
       "title": "ESPN Chile SD - OP 1",
-      "url": "http://45.170.130.224:8000/play/a01y/index.m3u8"
+      "url": "http://170.82.113.51:8899/play/a0l9/index.m3u8"
+    },
+    {
+      "title": "ESPN Chile HD - OP 2",
+      "url": "181.224.200.5:2277/play/aa07/index.m3u8 "
     }
   ]
 }
