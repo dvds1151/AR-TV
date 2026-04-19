@@ -5,7 +5,7 @@
 ## Aclaración
 Todo el contenido es recopilado de la web, no se es propietario ni se aloja contenido propio.
 
-EPG:
+EPG de uso libre:
 ```
 https://raw.githubusercontent.com/dvds1151/AR-TV/main/epg/artv-guide.xml
 ```
