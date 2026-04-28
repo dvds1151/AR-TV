@@ -39,7 +39,7 @@
     {
       "email": "alexarce116@gmail.com",
       "avatar": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/user_default_1.png",
-      "enabled": true,
+      "enabled": false,
       "devices": [
         "88585418-d84f-4a5a-96db-e2a6866eaa43",
         ""
