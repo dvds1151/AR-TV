@@ -649,7 +649,7 @@
   },
   {
     "title": "Music Top",
-    "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8",
+    "url": "https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MusicTop.png",
     "epg": "MusicTop.ar",
     "group": "Música",
