@@ -1,7 +1,7 @@
 {
   "enabled": true,
   "title": "Copa Mundial de la FIFA 2026™",
-  "banner_main": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_main.png",
+  "banner_main": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner26_main.png",
   "banner_background": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/json/banner_evento.png",
   "description": "¡Ya comenzó la Copa del Mundo! Viví todos los partidos y acompañá a la Selección Argentina en todos sus encuentros.",
   "streams": [
