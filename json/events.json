@@ -30,8 +30,8 @@
       "url": "http://200.60.124.20:29000/play/a081/index.m3u8"
     },
     {
-      "title": "Win Sports - OP 1",
-      "url": "http://181.118.158.103:8000/play/a026/index.m3u8"
+      "title": "Canal 12 - OP 1 [Solo selección]",
+      "url": "https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8"
     },
     {
       "title": "Telemundo Miami - OP 1",
@@ -52,10 +52,6 @@
     {
       "title": "Telefe - OP 2 [Solo Selección]",
       "url": "http://190.7.19.197:232/play/a059/index.m3u8"
-    },
-    {
-      "title": "Dsports+ - OP 1",
-      "url": "http://181.66.249.25:8000/play/a0d2/index.m3u8"
     }
   ]
 }
