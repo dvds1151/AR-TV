@@ -104,7 +104,7 @@
     "number": "13"
   },
   {
-    "title": "Canal 12 Posadas Misiones",
+    "title": "Canal 12 Posadas",
     "url": "https://iptv.ixfo.com.ar:30443/vivo/canal12/playlist.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal12.png",
     "epg": "",
@@ -112,7 +112,7 @@
     "number": "14"
   },
   {
-    "title": "Centro TV Oberá Misiones",
+    "title": "Centro TV Oberá",
     "url": "https://videostream.shockmedia.com.ar:19360/canal8obera/canal8obera.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/02-Canal8.png",
     "epg": "",
