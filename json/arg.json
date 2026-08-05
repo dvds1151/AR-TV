@@ -137,7 +137,7 @@
   },
   {
     "title": "CNN en Español",
-    "url": "http://190.7.19.197:232/play/a03j/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a093/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/03-CNNEsp.png",
     "epg": "CNNenEspanol.us",
     "group": "Internacionales",
@@ -177,7 +177,7 @@
   },
   {
     "title": "Encuentro",
-    "url": "http://190.7.19.197:232/play/a013/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a05s/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Encuentro.png",
     "epg": "Encuentro.ar",
     "group": "Culturales",
@@ -185,7 +185,7 @@
   },
   {
     "title": "NatGeo",
-    "url": "http://190.7.19.197:232/play/a03s/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a09f/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Natgeo.png",
     "epg": "NationalGeographicLatinAmerica.us@South",
     "group": "Culturales",
@@ -193,7 +193,7 @@
   },
   {
     "title": "Discovery Channel",
-    "url": "http://190.7.19.197:232/play/a065/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a08g/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Discovery.png",
     "epg": "DiscoveryChannelLatinAmerica.us@South",
     "group": "Culturales",
@@ -209,7 +209,7 @@
   },
   {
     "title": "Discovery Turbo",
-    "url": "http://190.7.19.197:232/play/a045/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a062/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryTurbo.png",
     "epg": "DiscoveryTurboLatinAmerica.us@Panregional",
     "group": "Culturales",
@@ -217,7 +217,7 @@
   },
   {
     "title": "Discovery H&H",
-    "url": "http://190.7.19.197:232/play/a064/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a08f/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-DiscoveryHH.png",
     "epg": "DiscoveryHomeHealthLatinAmerica.mx@South",
     "group": "Culturales",
@@ -225,7 +225,7 @@
   },
   {
     "title": "History",
-    "url": "http://190.7.19.197:232/play/a03h/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a09g/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History.png",
     "epg": "HistoryLatinAmerica.us@South",
     "group": "Culturales",
@@ -233,7 +233,7 @@
   },
   {
     "title": "History 2",
-    "url": "http://190.7.19.197:232/play/a019/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a06n/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-History2.png",
     "epg": "History2LatinAmerica.us@Panregional",
     "group": "Culturales",
@@ -257,7 +257,7 @@
   },
   {
     "title": "A&E",
-    "url": "http://190.7.19.197:232/play/a00c/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a09h/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-AE.png",
     "epg": "AELatinAmerica.us@South",
     "group": "Culturales",
@@ -265,7 +265,7 @@
   },
   {
     "title": "Lifetime",
-    "url": "http://190.7.19.197:232/play/a01l/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a07l/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/01-Lifetime.png",
     "epg": "LifetimeLatinAmerica.us@Panregional",
     "group": "Culturales",
@@ -273,7 +273,7 @@
   },
   {
     "title": "DEPORTV",
-    "url": "http://190.7.19.197:232/play/a05d/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a07f/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Deportv.png",
     "epg": "DeporTV.ar",
     "group": "Deportes",
@@ -305,7 +305,7 @@
   },
   {
     "title": "ESPN 3",
-    "url": "http://190.7.19.197:232/play/a03o/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a09a/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-Espn3.png",
     "epg": "ar#espn-3",
     "group": "Deportes",
@@ -313,7 +313,7 @@
   },
   {
     "title": "FOX Sports",
-    "url": "http://190.7.19.197:232/play/a05u/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a085/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports.png",
     "epg": "FoxSports.ar",
     "group": "Deportes",
@@ -321,7 +321,7 @@
   },
   {
     "title": "FOX Sports 2",
-    "url": "http://190.7.19.197:232/play/a03p/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a09b/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports2.png",
     "epg": "FoxSports2.ar",
     "group": "Deportes",
@@ -329,7 +329,7 @@
   },
   {
     "title": "FOX Sports 3",
-    "url": "http://190.7.19.197:232/play/a04x/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a06y/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-FoxSports3.png",
     "epg": "FoxSports3LatinAmerica.us@Panregional",
     "group": "Deportes",
@@ -337,7 +337,7 @@
   },
   {
     "title": "ESPN Premium",
-    "url": "http://190.7.19.197:232/play/a038/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a086/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-EspnPremium.png",
     "epg": "ESPNPremium.ar",
     "group": "Deportes",
@@ -345,7 +345,7 @@
   },
   {
     "title": "TNT Sports",
-    "url": "http://190.7.19.197:232/play/a037/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a06z/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/07-TNTSports.png",
     "epg": "TNTSports.ar",
     "group": "Deportes",
@@ -353,7 +353,7 @@
   },
   {
     "title": "Cartoon Network",
-    "url": "http://190.7.19.197:232/play/a05s/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a083/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-CartoonNetwork.png",
     "epg": "CartoonNetworkLatinAmerica.us@SouthAtlantic",
     "group": "Infantiles",
@@ -361,7 +361,7 @@
   },
   {
     "title": "Nickelodeon",
-    "url": "http://190.7.19.197:232/play/a03e/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a08y/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Nickelodeon.png",
     "epg": "ar#nickelodeon-hd",
     "group": "Infantiles",
@@ -369,7 +369,7 @@
   },
   {
     "title": "Disney Channel",
-    "url": "http://190.7.19.197:232/play/a04v/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a06w/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-Disney.png",
     "epg": "DisneyChannelLatinAmerica.ar@South",
     "group": "Infantiles",
@@ -377,7 +377,7 @@
   },
   {
     "title": "Discovery Kids",
-    "url": "http://190.7.19.197:232/play/a05i/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a07r/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DiscoveryKids.png",
     "epg": "DiscoveryKidsLatinAmerica.us@Panregional",
     "group": "Infantiles",
@@ -385,7 +385,7 @@
   },
   {
     "title": "Nick Junior",
-    "url": "http://190.7.19.197:232/play/a01n/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a07s/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-NickJr.png",
     "epg": "NickJrLatinAmerica.us@South",
     "group": "Infantiles",
@@ -393,7 +393,7 @@
   },
   {
     "title": "Disney Junior",
-    "url": "http://190.7.19.197:232/play/a03d/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a08x/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/04-DisneyJr.png",
     "epg": "ar#disney-jr",
     "group": "Infantiles",
@@ -417,7 +417,7 @@
   },
   {
     "title": "FX",
-    "url": "http://190.7.19.197:232/play/a04z/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a070/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-FX.png",
     "epg": "FXLatinAmerica.us@South",
     "group": "Cine & Series",
@@ -425,7 +425,7 @@
   },
   {
     "title": "Cinemax",
-    "url": "http://190.7.19.197:232/play/a009/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a08r/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinemax.png",
     "epg": "ar#cinemax-sur",
     "group": "Cine & Series",
@@ -433,7 +433,7 @@
   },
   {
     "title": "Space",
-    "url": "http://190.7.19.197:232/play/a050/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a071/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Space.png",
     "epg": "Space.ar@Panregional",
     "group": "Cine & Series",
@@ -441,7 +441,7 @@
   },
   {
     "title": "Cinecanal",
-    "url": "http://190.7.19.197:232/play/a05y/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a089/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Cinecanal.png",
     "epg": "Cinecanal.us@Panregional",
     "group": "Cine & Series",
@@ -449,7 +449,7 @@
   },
   {
     "title": "AXN",
-    "url": "http://190.7.19.197:232/play/a00b/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a09e/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-AXN.png",
     "epg": "ar#axn",
     "group": "Cine & Series",
@@ -457,7 +457,7 @@
   },
   {
     "title": "Warner Channel",
-    "url": "http://190.7.19.197:232/play/a01h/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a09d/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Warner.png",
     "epg": "WarnerChannel.us@South",
     "group": "Cine & Series",
@@ -465,7 +465,7 @@
   },
   {
     "title": "Sony Channel",
-    "url": "http://190.7.19.197:232/play/a01g/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a09c/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Sony.png",
     "epg": "ar#sony-hd",
     "group": "Cine & Series",
@@ -473,7 +473,7 @@
   },
   {
     "title": "Universal TV",
-    "url": "http://190.7.19.197:232/play/a03u/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a09i/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-UniversalTV.png",
     "epg": "UniversalTVLatinAmerica.us@South",
     "group": "Cine & Series",
@@ -481,7 +481,7 @@
   },
   {
     "title": "Studio Universal",
-    "url": "http://190.7.19.197:232/play/a049/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a067/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-StudioUniversal.png",
     "epg": "StudioUniversalLatinAmerica.us@South",
     "group": "Cine & Series",
@@ -497,7 +497,7 @@
   },
   {
     "title": "TNT",
-    "url": "http://190.7.19.197:232/play/a060/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a08b/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNT.png",
     "epg": "TNTLatinAmerica.us@South",
     "group": "Cine & Series",
@@ -505,7 +505,7 @@
   },
   {
     "title": "TNT Series",
-    "url": "http://190.7.19.197:232/play/a088/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a08c/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-TNTSeries.png",
     "epg": "TNTSeriesLatinAmerica.us@South",
     "group": "Cine & Series",
@@ -513,7 +513,7 @@
   },
   {
     "title": "TNT Novelas",
-    "url": "http://190.7.19.197:232/play/a00g/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a08e/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-TNTNovelas.png",
     "epg": "TBSSouth.us",
     "group": "Novelas",
@@ -569,7 +569,7 @@
   },
   {
     "title": "Cine.ar",
-    "url": "http://190.7.19.197:232/play/a04b/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a069/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-CineAr.png",
     "epg": "CineAr.ar",
     "group": "Cine & Series",
@@ -585,7 +585,7 @@
   },
   {
     "title": "Volver",
-    "url": "http://190.7.19.197:232/play/a048/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a066/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-Volver.png",
     "epg": "Volver.ar",
     "group": "Cine & Series",
@@ -609,7 +609,7 @@
   },
   {
     "title": "El Gourmet",
-    "url": "http://190.7.19.197:232/play/a01p/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a07u/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-ElGourmet.png",
     "epg": "ElGourmet.ar@South",
     "group": "Cocina",
@@ -625,7 +625,7 @@
   },
   {
     "title": "E! Entertainment",
-    "url": "http://190.7.19.197:232/play/a00a/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a08z/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-E.png",
     "epg": "ELatinAmerica.us@Andes",
     "group": "Espectaculo",
@@ -641,7 +641,7 @@
   },
   {
     "title": "MTV",
-    "url": "http://190.7.19.197:232/play/a04q/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a06r/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-MTV.png",
     "epg": "MTVLatinAmerica.us@Panregional",
     "group": "Música",
@@ -649,7 +649,7 @@
   },
   {
     "title": "HTV",
-    "url": "http://190.7.19.197:232/play/a01a/index.m3u8",
+    "url": "http://138.59.227.20:8000/play/a06t/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/08-HTV.png",
     "epg": "HTV.us",
     "group": "Música",
