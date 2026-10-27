@@ -521,7 +521,7 @@
   },
   {
     "title": "HBO",
-    "url": "http://181.66.249.25:8000/play/a07c/index.m3u8",
+    "url": "http://177.53.152.117:8000/play/a04i/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBO.png",
     "epg": "ar#hbo",
     "group": "Cine & Series",
@@ -537,7 +537,7 @@
   },
   {
     "title": "HBO Plus",
-    "url": "http://138.59.227.20:8000/play/a07n/index.m3u8",
+    "url": "http://177.53.152.117:8000/play/a073/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPlus.png",
     "epg": "ar#hbo-plus-este",
     "group": "Cine & Series",
@@ -545,7 +545,7 @@
   },
   {
     "title": "HBO Family",
-    "url": "http://181.66.249.25:8000/play/a0fg/index.m3u8",
+    "url": "http://177.53.152.117:8000/play/a092/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOFamiliy.png",
     "epg": "ar#hbo-family-hd",
     "group": "Cine & Series",
@@ -553,7 +553,7 @@
   },
   {
     "title": "HBO Pop",
-    "url": "http://191.97.14.162:8000/play/a017/index.m3u8",
+    "url": "http://177.53.152.117:8000/play/a08q/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOPop.png",
     "epg": "HBOPopLatinAmerica.us",
     "group": "Cine & Series",
@@ -561,7 +561,7 @@
   },
   {
     "title": "HBO Xtreme",
-    "url": "http://181.66.249.25:8000/play/a0fh/index.m3u8",
+    "url": "http://177.53.152.117:8000/play/a093/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/05-HBOXtreme.png",
     "epg": "HBOXtremeLatinAmerica.us",
     "group": "Cine & Series",
@@ -593,7 +593,7 @@
   },
   {
     "title": "Pasiones",
-    "url": "http://190.7.19.197:232/play/a01u/index.m3u8",
+    "url": "http://177.53.152.117:8000/play/a08n/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/06-Pasiones.png",
     "epg": "PasionesLatinAmerica.us",
     "group": "Novelas",
@@ -601,7 +601,7 @@
   },
   {
     "title": "Food Network",
-    "url": "",
+    "url": "http://177.53.152.117:8000/play/a0dn/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/09-FoodNetwork.png",
     "epg": "FoodNetworkLatinAmerica.us@Panregional",
     "group": "Cocina",
@@ -617,7 +617,7 @@
   },
   {
     "title": "Hola TV",
-    "url": "http://45.238.54.67:8000/play/a0aj/index.m3u8",
+    "url": "http://177.53.152.117:8000/play/a0f0/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-HolaTV.png",
     "epg": "HolaTVLatinAmerica.us",
     "group": "Espectaculo",
@@ -625,7 +625,7 @@
   },
   {
     "title": "E! Entertainment",
-    "url": "http://138.59.227.20:8000/play/a08z/index.m3u8",
+    "url": "http://177.53.152.117:8000/play/a0dd/index.m3u8",
     "icon": "https://raw.githubusercontent.com/dvds1151/AR-TV/main/icons/11-E.png",
     "epg": "ELatinAmerica.us@Andes",
     "group": "Espectaculo",
